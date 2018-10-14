@@ -27,7 +27,7 @@ Change the integer depth to the distance you prefer to search nodes for.
 IMPORTANT NOTE: The depth should be >= 0 !
 
 
-###WHAT WILL HAPPEN?
+### WHAT WILL HAPPEN?
 Now the algorithm will execute:
 Starting at a distance 0 it will search all the influencers.
 This will be repeated until the given depth is reached and the algorithm is executed for the last time.
