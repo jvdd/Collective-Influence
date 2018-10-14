@@ -1,0 +1,22 @@
+CA-GrQc.txt
+Depth: 12
+
+Number of nodes: 5242
+Number of edges: 14484
+
+Reading data: time elapsed = 0 h 0 min 0 sec 17 milisec
+Initializing CI values: time elapsed = 0 h 0 min 0 sec 980 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 0 milisec
+Searching influencers: time elapsed = 0 h 0 min 1 sec 915 milisec
+
+Original eigenvalue: 1,0408223133274
+Number of influencers: 2
+
+
+ID: 23786
+Degree: 2
+CIvalue: 3076
+
+ID: 21450
+Degree: 4
+CIvalue: 2109

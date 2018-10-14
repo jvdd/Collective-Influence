@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectiveInfluenceAlgorithm", "CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm.csproj", "{96562D62-591F-4597-B42F-A4BCB5A512CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5A26BB26-7150-4286-A630-F63D1598CF38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96562D62-591F-4597-B42F-A4BCB5A512CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96562D62-591F-4597-B42F-A4BCB5A512CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96562D62-591F-4597-B42F-A4BCB5A512CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96562D62-591F-4597-B42F-A4BCB5A512CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A26BB26-7150-4286-A630-F63D1598CF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A26BB26-7150-4286-A630-F63D1598CF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A26BB26-7150-4286-A630-F63D1598CF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A26BB26-7150-4286-A630-F63D1598CF38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

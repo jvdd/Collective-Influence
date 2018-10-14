@@ -1,0 +1,15 @@
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\CollectiveInfluenceAlgorithm.exe.config
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\obj\Debug\CollectiveInfluenceAlgorithm.exe
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\obj\Debug\CollectiveInfluenceAlgorithm.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\CollectiveInfluenceAlgorithm.exe
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\CollectiveInfluenceAlgorithm.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\QuickGraph.Data.dll
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\QuickGraph.dll
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\System.Transactions.dll
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\QuickGraph.xml
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\QuickGraph.Data.xml
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\CollectiveInfluenceAlgorithm\obj\Debug\CollectiveInfluenceAlgorithm.csprojResolveAssemblyReference.cache

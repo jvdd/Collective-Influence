@@ -1,0 +1,394 @@
+higgs-reply_network.txt
+Depth: 13
+
+Number of nodes: 38918
+Number of edges: 29552
+
+Reading data: time elapsed = 0 h 0 min 0 sec 68 milisec
+Initializing CI values: time elapsed = 0 h 0 min 7 sec 956 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 8 milisec
+Searching influencers: time elapsed = 0 h 11 min 14 sec 341 milisec
+
+Original eigenvalue: 1,22116959192883
+Number of influencers: 95
+
+
+ID: 269152
+Degree: 18
+CIvalue: 35904
+
+ID: 27748
+Degree: 4
+CIvalue: 16113
+
+ID: 35248
+Degree: 16
+CIvalue: 15645
+
+ID: 48652
+Degree: 10
+CIvalue: 11178
+
+ID: 44969
+Degree: 4
+CIvalue: 10815
+
+ID: 37561
+Degree: 8
+CIvalue: 8561
+
+ID: 245
+Degree: 31
+CIvalue: 8190
+
+ID: 69868
+Degree: 3
+CIvalue: 8108
+
+ID: 2237
+Degree: 19
+CIvalue: 6840
+
+ID: 90718
+Degree: 4
+CIvalue: 6723
+
+ID: 38602
+Degree: 24
+CIvalue: 5658
+
+ID: 31443
+Degree: 5
+CIvalue: 5248
+
+ID: 22734
+Degree: 8
+CIvalue: 5285
+
+ID: 146105
+Degree: 3
+CIvalue: 5234
+
+ID: 68278
+Degree: 35
+CIvalue: 5066
+
+ID: 102418
+Degree: 5
+CIvalue: 4868
+
+ID: 31290
+Degree: 16
+CIvalue: 4650
+
+ID: 54852
+Degree: 3
+CIvalue: 4302
+
+ID: 7214
+Degree: 8
+CIvalue: 4109
+
+ID: 48702
+Degree: 3
+CIvalue: 3924
+
+ID: 39511
+Degree: 7
+CIvalue: 3834
+
+ID: 68399
+Degree: 4
+CIvalue: 3747
+
+ID: 94713
+Degree: 6
+CIvalue: 3660
+
+ID: 2287
+Degree: 8
+CIvalue: 3633
+
+ID: 14598
+Degree: 7
+CIvalue: 4422
+
+ID: 31957
+Degree: 6
+CIvalue: 3225
+
+ID: 6069
+Degree: 2
+CIvalue: 2804
+
+ID: 17518
+Degree: 4
+CIvalue: 2751
+
+ID: 65097
+Degree: 10
+CIvalue: 2700
+
+ID: 6679
+Degree: 8
+CIvalue: 2674
+
+ID: 9226
+Degree: 8
+CIvalue: 2632
+
+ID: 104109
+Degree: 5
+CIvalue: 2460
+
+ID: 2221
+Degree: 3
+CIvalue: 2450
+
+ID: 30714
+Degree: 3
+CIvalue: 2404
+
+ID: 77616
+Degree: 6
+CIvalue: 2380
+
+ID: 16452
+Degree: 9
+CIvalue: 2352
+
+ID: 90168
+Degree: 3
+CIvalue: 2252
+
+ID: 54280
+Degree: 3
+CIvalue: 2150
+
+ID: 42208
+Degree: 4
+CIvalue: 2121
+
+ID: 34852
+Degree: 2
+CIvalue: 2114
+
+ID: 69152
+Degree: 2
+CIvalue: 1962
+
+ID: 35114
+Degree: 2
+CIvalue: 1957
+
+ID: 43594
+Degree: 3
+CIvalue: 1876
+
+ID: 420036
+Degree: 5
+CIvalue: 1764
+
+ID: 93208
+Degree: 7
+CIvalue: 1722
+
+ID: 21100
+Degree: 3
+CIvalue: 1684
+
+ID: 70134
+Degree: 3
+CIvalue: 1676
+
+ID: 8385
+Degree: 4
+CIvalue: 1665
+
+ID: 20187
+Degree: 7
+CIvalue: 1638
+
+ID: 11053
+Degree: 11
+CIvalue: 1550
+
+ID: 282887
+Degree: 2
+CIvalue: 1514
+
+ID: 4506
+Degree: 2
+CIvalue: 1510
+
+ID: 55181
+Degree: 4
+CIvalue: 1491
+
+ID: 752
+Degree: 4
+CIvalue: 1473
+
+ID: 14682
+Degree: 3
+CIvalue: 1452
+
+ID: 20295
+Degree: 3
+CIvalue: 1436
+
+ID: 155002
+Degree: 3
+CIvalue: 1326
+
+ID: 40997
+Degree: 3
+CIvalue: 1288
+
+ID: 16092
+Degree: 3
+CIvalue: 1274
+
+ID: 8742
+Degree: 3
+CIvalue: 1256
+
+ID: 16344
+Degree: 3
+CIvalue: 1252
+
+ID: 34283
+Degree: 3
+CIvalue: 1240
+
+ID: 8208
+Degree: 6
+CIvalue: 1230
+
+ID: 78800
+Degree: 3
+CIvalue: 1210
+
+ID: 30674
+Degree: 2
+CIvalue: 1201
+
+ID: 65669
+Degree: 2
+CIvalue: 1196
+
+ID: 11315
+Degree: 3
+CIvalue: 1176
+
+ID: 6945
+Degree: 6
+CIvalue: 1090
+
+ID: 157845
+Degree: 2
+CIvalue: 1068
+
+ID: 623
+Degree: 2
+CIvalue: 1068
+
+ID: 34312
+Degree: 10
+CIvalue: 1062
+
+ID: 106879
+Degree: 2
+CIvalue: 970
+
+ID: 40744
+Degree: 3
+CIvalue: 962
+
+ID: 17513
+Degree: 3
+CIvalue: 962
+
+ID: 2739
+Degree: 3
+CIvalue: 936
+
+ID: 20276
+Degree: 5
+CIvalue: 916
+
+ID: 1533
+Degree: 2
+CIvalue: 900
+
+ID: 27730
+Degree: 2
+CIvalue: 899
+
+ID: 4514
+Degree: 8
+CIvalue: 868
+
+ID: 303072
+Degree: 6
+CIvalue: 855
+
+ID: 39574
+Degree: 2
+CIvalue: 843
+
+ID: 249809
+Degree: 5
+CIvalue: 828
+
+ID: 178640
+Degree: 2
+CIvalue: 826
+
+ID: 49289
+Degree: 4
+CIvalue: 801
+
+ID: 95742
+Degree: 2
+CIvalue: 797
+
+ID: 45
+Degree: 5
+CIvalue: 724
+
+ID: 7735
+Degree: 2
+CIvalue: 714
+
+ID: 196856
+Degree: 2
+CIvalue: 697
+
+ID: 6660
+Degree: 3
+CIvalue: 686
+
+ID: 26668
+Degree: 2
+CIvalue: 678
+
+ID: 24565
+Degree: 2
+CIvalue: 678
+
+ID: 78569
+Degree: 2
+CIvalue: 666
+
+ID: 131591
+Degree: 2
+CIvalue: 666
+
+ID: 126884
+Degree: 2
+CIvalue: 666
+
+ID: 161849
+Degree: 3
+CIvalue: 636

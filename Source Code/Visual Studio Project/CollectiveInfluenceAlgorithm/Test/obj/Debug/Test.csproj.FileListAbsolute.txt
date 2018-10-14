@@ -1,0 +1,8 @@
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\Test\bin\Debug\Test.dll
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\Test\bin\Debug\Test.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\Test\bin\Debug\CollectiveInfluenceAlgorithm.exe
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\Test\bin\Debug\CollectiveInfluenceAlgorithm.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\Test\obj\Debug\Test.dll
+C:\Users\Jeroen\Documents\Visual Studio 2015\Projects\CollectiveInfluenceAlgorithm\Test\obj\Debug\Test.pdb

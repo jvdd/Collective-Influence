@@ -1,0 +1,14 @@
+p2p-Gnutella08.txt
+Depth: 7
+
+Number of nodes: 6301
+Number of edges: 20777
+
+Reading data: time elapsed = 0 h 0 min 0 sec 11 milisec
+Initializing CI values: time elapsed = 0 h 0 min 1 sec 989 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 0 milisec
+Searching influencers: time elapsed = 0 h 0 min 0 sec 0 milisec
+
+Original eigenvalue: 0,784934864377112
+Number of influencers: 0
+

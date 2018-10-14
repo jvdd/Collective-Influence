@@ -1,0 +1,9122 @@
+higgs-retweet_network.txt
+Depth: 2
+
+Number of nodes: 256491
+Number of edges: 327374
+
+Reading data: time elapsed = 0 h 0 min 0 sec 955 milisec
+Initializing CI values: time elapsed = 0 h 0 min 13 sec 870 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 76 milisec
+Searching influencers: time elapsed = 0 h 0 min 11 sec 432 milisec
+
+Original eigenvalue: 34,0281099372634
+Number of influencers: 2277
+
+
+ID: 88
+Degree: 14061
+CIvalue: 3111787320
+
+ID: 14454
+Degree: 6190
+CIvalue: 1104024765
+
+ID: 677
+Degree: 5620
+CIvalue: 942345633
+
+ID: 1988
+Degree: 4336
+CIvalue: 763549560
+
+ID: 349
+Degree: 2803
+CIvalue: 424687932
+
+ID: 5226
+Degree: 1661
+CIvalue: 241908480
+
+ID: 3571
+Degree: 1981
+CIvalue: 229557240
+
+ID: 519
+Degree: 1646
+CIvalue: 221928595
+
+ID: 6948
+Degree: 1959
+CIvalue: 192428324
+
+ID: 2567
+Degree: 1516
+CIvalue: 178754850
+
+ID: 31650
+Degree: 1545
+CIvalue: 169518848
+
+ID: 220
+Degree: 1666
+CIvalue: 165915585
+
+ID: 9964
+Degree: 1670
+CIvalue: 162614008
+
+ID: 7533
+Degree: 1671
+CIvalue: 155042800
+
+ID: 3549
+Degree: 1623
+CIvalue: 138502580
+
+ID: 14572
+Degree: 1692
+CIvalue: 131010225
+
+ID: 19913
+Degree: 1406
+CIvalue: 126700090
+
+ID: 138
+Degree: 1431
+CIvalue: 113746490
+
+ID: 1276
+Degree: 974
+CIvalue: 98544467
+
+ID: 2342
+Degree: 1021
+CIvalue: 87845460
+
+ID: 3998
+Degree: 834
+CIvalue: 83473264
+
+ID: 6940
+Degree: 921
+CIvalue: 73697520
+
+ID: 205
+Degree: 917
+CIvalue: 67550420
+
+ID: 14615
+Degree: 788
+CIvalue: 60136244
+
+ID: 511
+Degree: 647
+CIvalue: 58696852
+
+ID: 8
+Degree: 841
+CIvalue: 57629880
+
+ID: 8135
+Degree: 906
+CIvalue: 56681960
+
+ID: 15
+Degree: 950
+CIvalue: 53733329
+
+ID: 68278
+Degree: 1689
+CIvalue: 53281720
+
+ID: 3237
+Degree: 979
+CIvalue: 51423240
+
+ID: 5245
+Degree: 803
+CIvalue: 50337530
+
+ID: 4446
+Degree: 872
+CIvalue: 47784802
+
+ID: 1503
+Degree: 773
+CIvalue: 47318196
+
+ID: 383
+Degree: 662
+CIvalue: 44718633
+
+ID: 301
+Degree: 762
+CIvalue: 42446297
+
+ID: 34268
+Degree: 1031
+CIvalue: 40637620
+
+ID: 857
+Degree: 651
+CIvalue: 39453700
+
+ID: 1343
+Degree: 767
+CIvalue: 37306498
+
+ID: 979
+Degree: 853
+CIvalue: 35814672
+
+ID: 2417
+Degree: 640
+CIvalue: 32833098
+
+ID: 206
+Degree: 606
+CIvalue: 31913750
+
+ID: 27738
+Degree: 508
+CIvalue: 29991078
+
+ID: 14611
+Degree: 598
+CIvalue: 29404041
+
+ID: 16460
+Degree: 897
+CIvalue: 28383488
+
+ID: 16344
+Degree: 534
+CIvalue: 27770899
+
+ID: 283
+Degree: 2039
+CIvalue: 27559874
+
+ID: 356
+Degree: 729
+CIvalue: 27490008
+
+ID: 39511
+Degree: 854
+CIvalue: 27127959
+
+ID: 35843
+Degree: 489
+CIvalue: 26823408
+
+ID: 8942
+Degree: 568
+CIvalue: 26315604
+
+ID: 14075
+Degree: 568
+CIvalue: 25658451
+
+ID: 3393
+Degree: 743
+CIvalue: 25519606
+
+ID: 5193
+Degree: 503
+CIvalue: 23163786
+
+ID: 16527
+Degree: 445
+CIvalue: 21641448
+
+ID: 11991
+Degree: 415
+CIvalue: 21423672
+
+ID: 13813
+Degree: 371
+CIvalue: 21037460
+
+ID: 960
+Degree: 810
+CIvalue: 20602803
+
+ID: 16783
+Degree: 494
+CIvalue: 19817614
+
+ID: 13808
+Degree: 378
+CIvalue: 19440382
+
+ID: 57105
+Degree: 402
+CIvalue: 19254817
+
+ID: 132690
+Degree: 540
+CIvalue: 19168457
+
+ID: 1852
+Degree: 472
+CIvalue: 18865905
+
+ID: 7274
+Degree: 458
+CIvalue: 18766248
+
+ID: 14549
+Degree: 707
+CIvalue: 18680760
+
+ID: 69417
+Degree: 715
+CIvalue: 17358768
+
+ID: 13416
+Degree: 760
+CIvalue: 16572765
+
+ID: 3726
+Degree: 611
+CIvalue: 16438280
+
+ID: 2014
+Degree: 434
+CIvalue: 15944792
+
+ID: 6971
+Degree: 766
+CIvalue: 15744465
+
+ID: 77
+Degree: 399
+CIvalue: 15387078
+
+ID: 35248
+Degree: 440
+CIvalue: 15117843
+
+ID: 322
+Degree: 422
+CIvalue: 14385991
+
+ID: 280
+Degree: 429
+CIvalue: 14111588
+
+ID: 11946
+Degree: 366
+CIvalue: 13953585
+
+ID: 9881
+Degree: 385
+CIvalue: 13739136
+
+ID: 2662
+Degree: 431
+CIvalue: 13480930
+
+ID: 8767
+Degree: 483
+CIvalue: 12846746
+
+ID: 11714
+Degree: 524
+CIvalue: 12621036
+
+ID: 14625
+Degree: 495
+CIvalue: 12449788
+
+ID: 4368
+Degree: 338
+CIvalue: 12086505
+
+ID: 16358
+Degree: 333
+CIvalue: 11904192
+
+ID: 35481
+Degree: 609
+CIvalue: 11539840
+
+ID: 130884
+Degree: 445
+CIvalue: 11401920
+
+ID: 47794
+Degree: 523
+CIvalue: 11166102
+
+ID: 14648
+Degree: 730
+CIvalue: 11144223
+
+ID: 8016
+Degree: 459
+CIvalue: 10889866
+
+ID: 213
+Degree: 413
+CIvalue: 10836424
+
+ID: 32972
+Degree: 327
+CIvalue: 10731268
+
+ID: 216
+Degree: 523
+CIvalue: 10403460
+
+ID: 7627
+Degree: 676
+CIvalue: 9990000
+
+ID: 2280
+Degree: 334
+CIvalue: 9861129
+
+ID: 8806
+Degree: 521
+CIvalue: 9739600
+
+ID: 8208
+Degree: 405
+CIvalue: 9666912
+
+ID: 531
+Degree: 277
+CIvalue: 9331008
+
+ID: 19870
+Degree: 280
+CIvalue: 9113535
+
+ID: 14650
+Degree: 442
+CIvalue: 8993313
+
+ID: 4076
+Degree: 446
+CIvalue: 8588500
+
+ID: 31957
+Degree: 602
+CIvalue: 8244518
+
+ID: 118818
+Degree: 288
+CIvalue: 8143625
+
+ID: 26486
+Degree: 307
+CIvalue: 8093088
+
+ID: 34719
+Degree: 513
+CIvalue: 7698944
+
+ID: 2166
+Degree: 379
+CIvalue: 7661304
+
+ID: 15538
+Degree: 297
+CIvalue: 7601576
+
+ID: 50361
+Degree: 314
+CIvalue: 7366142
+
+ID: 2179
+Degree: 293
+CIvalue: 7206268
+
+ID: 2347
+Degree: 421
+CIvalue: 7083300
+
+ID: 1134
+Degree: 303
+CIvalue: 7028748
+
+ID: 19604
+Degree: 244
+CIvalue: 6967782
+
+ID: 49182
+Degree: 485
+CIvalue: 6866508
+
+ID: 387
+Degree: 401
+CIvalue: 6626000
+
+ID: 37532
+Degree: 325
+CIvalue: 6611220
+
+ID: 11792
+Degree: 359
+CIvalue: 6455814
+
+ID: 96622
+Degree: 431
+CIvalue: 6143410
+
+ID: 64911
+Degree: 224
+CIvalue: 6055565
+
+ID: 1274
+Degree: 481
+CIvalue: 5938080
+
+ID: 42182
+Degree: 241
+CIvalue: 5922240
+
+ID: 2138
+Degree: 430
+CIvalue: 5846841
+
+ID: 32226
+Degree: 249
+CIvalue: 5779392
+
+ID: 34963
+Degree: 297
+CIvalue: 5653008
+
+ID: 4208
+Degree: 351
+CIvalue: 5595450
+
+ID: 7592
+Degree: 274
+CIvalue: 5467371
+
+ID: 2941
+Degree: 337
+CIvalue: 5451600
+
+ID: 245
+Degree: 731
+CIvalue: 5359660
+
+ID: 37502
+Degree: 279
+CIvalue: 5345940
+
+ID: 1267
+Degree: 322
+CIvalue: 5083998
+
+ID: 3547
+Degree: 166
+CIvalue: 4954455
+
+ID: 30230
+Degree: 365
+CIvalue: 4879420
+
+ID: 7698
+Degree: 686
+CIvalue: 4878570
+
+ID: 468
+Degree: 245
+CIvalue: 4748240
+
+ID: 14577
+Degree: 219
+CIvalue: 4680678
+
+ID: 11036
+Degree: 237
+CIvalue: 4564712
+
+ID: 33355
+Degree: 241
+CIvalue: 4530000
+
+ID: 50901
+Degree: 211
+CIvalue: 4341960
+
+ID: 14564
+Degree: 338
+CIvalue: 4338875
+
+ID: 3994
+Degree: 210
+CIvalue: 4325255
+
+ID: 335
+Degree: 380
+CIvalue: 4288385
+
+ID: 12751
+Degree: 206
+CIvalue: 4214595
+
+ID: 54039
+Degree: 376
+CIvalue: 4146000
+
+ID: 891
+Degree: 278
+CIvalue: 4136995
+
+ID: 16801
+Degree: 202
+CIvalue: 3989046
+
+ID: 13799
+Degree: 246
+CIvalue: 3968510
+
+ID: 26186
+Degree: 308
+CIvalue: 3945871
+
+ID: 2177
+Degree: 227
+CIvalue: 3880420
+
+ID: 1062
+Degree: 294
+CIvalue: 3648143
+
+ID: 26352
+Degree: 288
+CIvalue: 3556217
+
+ID: 15769
+Degree: 303
+CIvalue: 3512260
+
+ID: 7436
+Degree: 398
+CIvalue: 3471765
+
+ID: 45605
+Degree: 184
+CIvalue: 3343227
+
+ID: 50733
+Degree: 184
+CIvalue: 3341397
+
+ID: 12281
+Degree: 556
+CIvalue: 3328890
+
+ID: 3808
+Degree: 243
+CIvalue: 3276680
+
+ID: 198048
+Degree: 331
+CIvalue: 3182520
+
+ID: 71
+Degree: 348
+CIvalue: 3176785
+
+ID: 34236
+Degree: 174
+CIvalue: 3048606
+
+ID: 3604
+Degree: 153
+CIvalue: 3014464
+
+ID: 250519
+Degree: 518
+CIvalue: 2970165
+
+ID: 236
+Degree: 507
+CIvalue: 2948968
+
+ID: 13798
+Degree: 180
+CIvalue: 2937390
+
+ID: 15821
+Degree: 188
+CIvalue: 2907850
+
+ID: 59945
+Degree: 241
+CIvalue: 2856000
+
+ID: 40797
+Degree: 208
+CIvalue: 2768625
+
+ID: 8321
+Degree: 231
+CIvalue: 2744360
+
+ID: 35366
+Degree: 233
+CIvalue: 2655472
+
+ID: 463
+Degree: 173
+CIvalue: 2654820
+
+ID: 95905
+Degree: 292
+CIvalue: 2648391
+
+ID: 7437
+Degree: 253
+CIvalue: 2580732
+
+ID: 485
+Degree: 360
+CIvalue: 2527360
+
+ID: 51
+Degree: 240
+CIvalue: 2524796
+
+ID: 14813
+Degree: 206
+CIvalue: 2487060
+
+ID: 14584
+Degree: 194
+CIvalue: 2463259
+
+ID: 21280
+Degree: 147
+CIvalue: 2448128
+
+ID: 17004
+Degree: 590
+CIvalue: 2441994
+
+ID: 13821
+Degree: 158
+CIvalue: 2411834
+
+ID: 14557
+Degree: 178
+CIvalue: 2389677
+
+ID: 34519
+Degree: 160
+CIvalue: 2296437
+
+ID: 39885
+Degree: 133
+CIvalue: 2285316
+
+ID: 5137
+Degree: 156
+CIvalue: 2239595
+
+ID: 86
+Degree: 203
+CIvalue: 2237756
+
+ID: 16452
+Degree: 327
+CIvalue: 2223972
+
+ID: 980
+Degree: 294
+CIvalue: 2170837
+
+ID: 957
+Degree: 254
+CIvalue: 2106225
+
+ID: 39420
+Degree: 167
+CIvalue: 2102058
+
+ID: 40279
+Degree: 260
+CIvalue: 2085468
+
+ID: 113099
+Degree: 350
+CIvalue: 2084228
+
+ID: 492
+Degree: 129
+CIvalue: 2010624
+
+ID: 4336
+Degree: 200
+CIvalue: 1977463
+
+ID: 1373
+Degree: 204
+CIvalue: 1961386
+
+ID: 4893
+Degree: 223
+CIvalue: 1956708
+
+ID: 14588
+Degree: 183
+CIvalue: 1942850
+
+ID: 2634
+Degree: 194
+CIvalue: 1930000
+
+ID: 750
+Degree: 277
+CIvalue: 1906056
+
+ID: 4200
+Degree: 228
+CIvalue: 1900217
+
+ID: 4895
+Degree: 230
+CIvalue: 1821466
+
+ID: 4665
+Degree: 126
+CIvalue: 1807250
+
+ID: 2348
+Degree: 293
+CIvalue: 1799596
+
+ID: 4526
+Degree: 445
+CIvalue: 1773336
+
+ID: 35352
+Degree: 161
+CIvalue: 1752640
+
+ID: 2055
+Degree: 335
+CIvalue: 1749826
+
+ID: 35376
+Degree: 110
+CIvalue: 1719911
+
+ID: 99369
+Degree: 314
+CIvalue: 1695208
+
+ID: 28476
+Degree: 166
+CIvalue: 1685805
+
+ID: 2670
+Degree: 190
+CIvalue: 1683612
+
+ID: 52474
+Degree: 194
+CIvalue: 1620621
+
+ID: 8603
+Degree: 349
+CIvalue: 1611240
+
+ID: 56968
+Degree: 137
+CIvalue: 1597048
+
+ID: 352
+Degree: 282
+CIvalue: 1575286
+
+ID: 6373
+Degree: 123
+CIvalue: 1553670
+
+ID: 12465
+Degree: 425
+CIvalue: 1550568
+
+ID: 20522
+Degree: 238
+CIvalue: 1516800
+
+ID: 81
+Degree: 161
+CIvalue: 1505280
+
+ID: 6241
+Degree: 114
+CIvalue: 1499623
+
+ID: 85042
+Degree: 291
+CIvalue: 1456960
+
+ID: 2934
+Degree: 288
+CIvalue: 1452220
+
+ID: 26153
+Degree: 130
+CIvalue: 1430739
+
+ID: 1292
+Degree: 173
+CIvalue: 1428632
+
+ID: 503
+Degree: 283
+CIvalue: 1420716
+
+ID: 5438
+Degree: 155
+CIvalue: 1392160
+
+ID: 19153
+Degree: 197
+CIvalue: 1391012
+
+ID: 103447
+Degree: 117
+CIvalue: 1361608
+
+ID: 37545
+Degree: 206
+CIvalue: 1346235
+
+ID: 3972
+Degree: 128
+CIvalue: 1334008
+
+ID: 16533
+Degree: 125
+CIvalue: 1321840
+
+ID: 505
+Degree: 164
+CIvalue: 1311009
+
+ID: 759
+Degree: 271
+CIvalue: 1296810
+
+ID: 12022
+Degree: 129
+CIvalue: 1286144
+
+ID: 12510
+Degree: 269
+CIvalue: 1281844
+
+ID: 465
+Degree: 182
+CIvalue: 1269353
+
+ID: 20050
+Degree: 239
+CIvalue: 1268778
+
+ID: 8959
+Degree: 220
+CIvalue: 1249176
+
+ID: 20920
+Degree: 211
+CIvalue: 1244040
+
+ID: 752
+Degree: 137
+CIvalue: 1224952
+
+ID: 1984
+Degree: 116
+CIvalue: 1198645
+
+ID: 268
+Degree: 235
+CIvalue: 1188018
+
+ID: 34312
+Degree: 300
+CIvalue: 1147263
+
+ID: 12687
+Degree: 328
+CIvalue: 1139922
+
+ID: 4730
+Degree: 226
+CIvalue: 1135575
+
+ID: 26398
+Degree: 100
+CIvalue: 1128897
+
+ID: 33476
+Degree: 126
+CIvalue: 1080250
+
+ID: 19159
+Degree: 198
+CIvalue: 1057299
+
+ID: 248
+Degree: 228
+CIvalue: 1046016
+
+ID: 323
+Degree: 230
+CIvalue: 1031645
+
+ID: 4182
+Degree: 127
+CIvalue: 1027908
+
+ID: 489
+Degree: 186
+CIvalue: 1002145
+
+ID: 57543
+Degree: 193
+CIvalue: 999936
+
+ID: 9021
+Degree: 137
+CIvalue: 999192
+
+ID: 20385
+Degree: 115
+CIvalue: 983934
+
+ID: 7540
+Degree: 224
+CIvalue: 981869
+
+ID: 103612
+Degree: 134
+CIvalue: 948822
+
+ID: 3419
+Degree: 248
+CIvalue: 942799
+
+ID: 51742
+Degree: 275
+CIvalue: 940642
+
+ID: 7590
+Degree: 240
+CIvalue: 915848
+
+ID: 47015
+Degree: 145
+CIvalue: 915552
+
+ID: 553
+Degree: 111
+CIvalue: 881870
+
+ID: 243
+Degree: 132
+CIvalue: 875866
+
+ID: 1880
+Degree: 168
+CIvalue: 872575
+
+ID: 396
+Degree: 178
+CIvalue: 866592
+
+ID: 12928
+Degree: 126
+CIvalue: 855750
+
+ID: 2572
+Degree: 181
+CIvalue: 854820
+
+ID: 122469
+Degree: 181
+CIvalue: 844920
+
+ID: 37561
+Degree: 175
+CIvalue: 821976
+
+ID: 61753
+Degree: 125
+CIvalue: 819268
+
+ID: 30799
+Degree: 138
+CIvalue: 812958
+
+ID: 42172
+Degree: 96
+CIvalue: 797145
+
+ID: 1298
+Degree: 141
+CIvalue: 792260
+
+ID: 9323
+Degree: 288
+CIvalue: 781214
+
+ID: 2353
+Degree: 271
+CIvalue: 779760
+
+ID: 67032
+Degree: 170
+CIvalue: 774020
+
+ID: 214
+Degree: 151
+CIvalue: 765750
+
+ID: 15210
+Degree: 92
+CIvalue: 748930
+
+ID: 5113
+Degree: 170
+CIvalue: 742417
+
+ID: 8835
+Degree: 128
+CIvalue: 738124
+
+ID: 1553
+Degree: 232
+CIvalue: 735042
+
+ID: 1945
+Degree: 236
+CIvalue: 731320
+
+ID: 3235
+Degree: 263
+CIvalue: 729932
+
+ID: 2156
+Degree: 162
+CIvalue: 717899
+
+ID: 39889
+Degree: 112
+CIvalue: 710511
+
+ID: 69237
+Degree: 254
+CIvalue: 706123
+
+ID: 765
+Degree: 192
+CIvalue: 699633
+
+ID: 15536
+Degree: 132
+CIvalue: 696265
+
+ID: 128559
+Degree: 185
+CIvalue: 682824
+
+ID: 702
+Degree: 101
+CIvalue: 676400
+
+ID: 38790
+Degree: 124
+CIvalue: 669489
+
+ID: 7501
+Degree: 88
+CIvalue: 642060
+
+ID: 14672
+Degree: 205
+CIvalue: 638316
+
+ID: 94
+Degree: 136
+CIvalue: 623835
+
+ID: 54550
+Degree: 141
+CIvalue: 618940
+
+ID: 57122
+Degree: 183
+CIvalue: 617162
+
+ID: 4888
+Degree: 208
+CIvalue: 611685
+
+ID: 30225
+Degree: 115
+CIvalue: 609558
+
+ID: 211
+Degree: 194
+CIvalue: 606792
+
+ID: 13795
+Degree: 86
+CIvalue: 597805
+
+ID: 1837
+Degree: 153
+CIvalue: 594016
+
+ID: 13383
+Degree: 127
+CIvalue: 589680
+
+ID: 389
+Degree: 117
+CIvalue: 583132
+
+ID: 3020
+Degree: 137
+CIvalue: 579632
+
+ID: 13249
+Degree: 268
+CIvalue: 572715
+
+ID: 16440
+Degree: 228
+CIvalue: 572494
+
+ID: 1037
+Degree: 125
+CIvalue: 569284
+
+ID: 68099
+Degree: 287
+CIvalue: 566852
+
+ID: 13820
+Degree: 93
+CIvalue: 565800
+
+ID: 1858
+Degree: 128
+CIvalue: 553974
+
+ID: 274
+Degree: 222
+CIvalue: 547417
+
+ID: 60035
+Degree: 125
+CIvalue: 541756
+
+ID: 110903
+Degree: 92
+CIvalue: 537628
+
+ID: 18168
+Degree: 148
+CIvalue: 533169
+
+ID: 67774
+Degree: 158
+CIvalue: 529875
+
+ID: 65301
+Degree: 153
+CIvalue: 521360
+
+ID: 31617
+Degree: 160
+CIvalue: 509913
+
+ID: 14682
+Degree: 148
+CIvalue: 497154
+
+ID: 5716
+Degree: 138
+CIvalue: 495392
+
+ID: 9762
+Degree: 208
+CIvalue: 494523
+
+ID: 43
+Degree: 191
+CIvalue: 494190
+
+ID: 9363
+Degree: 202
+CIvalue: 491445
+
+ID: 60169
+Degree: 155
+CIvalue: 489258
+
+ID: 55965
+Degree: 108
+CIvalue: 481500
+
+ID: 2287
+Degree: 115
+CIvalue: 478572
+
+ID: 36660
+Degree: 263
+CIvalue: 474482
+
+ID: 26158
+Degree: 95
+CIvalue: 451670
+
+ID: 1881
+Degree: 145
+CIvalue: 446112
+
+ID: 7960
+Degree: 202
+CIvalue: 445416
+
+ID: 30992
+Degree: 204
+CIvalue: 443352
+
+ID: 291
+Degree: 110
+CIvalue: 441341
+
+ID: 49179
+Degree: 107
+CIvalue: 439264
+
+ID: 42
+Degree: 206
+CIvalue: 438290
+
+ID: 75369
+Degree: 334
+CIvalue: 437229
+
+ID: 6929
+Degree: 119
+CIvalue: 432470
+
+ID: 317
+Degree: 177
+CIvalue: 425040
+
+ID: 68285
+Degree: 154
+CIvalue: 424728
+
+ID: 29743
+Degree: 91
+CIvalue: 423090
+
+ID: 1896
+Degree: 159
+CIvalue: 411906
+
+ID: 4910
+Degree: 123
+CIvalue: 408456
+
+ID: 510
+Degree: 167
+CIvalue: 403878
+
+ID: 57138
+Degree: 183
+CIvalue: 393484
+
+ID: 27723
+Degree: 75
+CIvalue: 391830
+
+ID: 4599
+Degree: 97
+CIvalue: 386880
+
+ID: 1834
+Degree: 118
+CIvalue: 384462
+
+ID: 14565
+Degree: 101
+CIvalue: 383100
+
+ID: 7756
+Degree: 305
+CIvalue: 375136
+
+ID: 194092
+Degree: 188
+CIvalue: 375122
+
+ID: 365
+Degree: 114
+CIvalue: 371092
+
+ID: 294416
+Degree: 613
+CIvalue: 367812
+
+ID: 14064
+Degree: 99
+CIvalue: 367500
+
+ID: 689
+Degree: 175
+CIvalue: 367140
+
+ID: 63931
+Degree: 76
+CIvalue: 355575
+
+ID: 38672
+Degree: 133
+CIvalue: 352308
+
+ID: 12473
+Degree: 165
+CIvalue: 351780
+
+ID: 2320
+Degree: 116
+CIvalue: 351095
+
+ID: 374
+Degree: 126
+CIvalue: 348125
+
+ID: 5335
+Degree: 151
+CIvalue: 338400
+
+ID: 27147
+Degree: 77
+CIvalue: 332576
+
+ID: 5280
+Degree: 87
+CIvalue: 321554
+
+ID: 27483
+Degree: 64
+CIvalue: 316827
+
+ID: 27744
+Degree: 175
+CIvalue: 315462
+
+ID: 9025
+Degree: 82
+CIvalue: 313632
+
+ID: 16096
+Degree: 152
+CIvalue: 313476
+
+ID: 6969
+Degree: 200
+CIvalue: 312629
+
+ID: 2870
+Degree: 135
+CIvalue: 311014
+
+ID: 5792
+Degree: 95
+CIvalue: 304936
+
+ID: 35375
+Degree: 72
+CIvalue: 303241
+
+ID: 8598
+Degree: 166
+CIvalue: 297000
+
+ID: 68308
+Degree: 173
+CIvalue: 296012
+
+ID: 10179
+Degree: 75
+CIvalue: 295112
+
+ID: 4259
+Degree: 121
+CIvalue: 293880
+
+ID: 226
+Degree: 163
+CIvalue: 290304
+
+ID: 3795
+Degree: 84
+CIvalue: 288508
+
+ID: 37523
+Degree: 181
+CIvalue: 280440
+
+ID: 3298
+Degree: 161
+CIvalue: 274080
+
+ID: 13506
+Degree: 117
+CIvalue: 272716
+
+ID: 715
+Degree: 101
+CIvalue: 271500
+
+ID: 78
+Degree: 115
+CIvalue: 260832
+
+ID: 16011
+Degree: 126
+CIvalue: 260500
+
+ID: 26
+Degree: 127
+CIvalue: 258426
+
+ID: 122634
+Degree: 102
+CIvalue: 258257
+
+ID: 12318
+Degree: 126
+CIvalue: 258125
+
+ID: 1877
+Degree: 125
+CIvalue: 257424
+
+ID: 7783
+Degree: 133
+CIvalue: 254496
+
+ID: 8984
+Degree: 209
+CIvalue: 250016
+
+ID: 29225
+Degree: 80
+CIvalue: 249087
+
+ID: 14070
+Degree: 101
+CIvalue: 248000
+
+ID: 2813
+Degree: 103
+CIvalue: 243984
+
+ID: 8252
+Degree: 157
+CIvalue: 241956
+
+ID: 18915
+Degree: 78
+CIvalue: 238161
+
+ID: 54222
+Degree: 171
+CIvalue: 238000
+
+ID: 369
+Degree: 96
+CIvalue: 236075
+
+ID: 5011
+Degree: 85
+CIvalue: 234948
+
+ID: 31549
+Degree: 159
+CIvalue: 234630
+
+ID: 13633
+Degree: 134
+CIvalue: 234479
+
+ID: 4708
+Degree: 154
+CIvalue: 233937
+
+ID: 10916
+Degree: 88
+CIvalue: 233595
+
+ID: 12698
+Degree: 112
+CIvalue: 232101
+
+ID: 327
+Degree: 158
+CIvalue: 230790
+
+ID: 33181
+Degree: 84
+CIvalue: 229827
+
+ID: 2898
+Degree: 106
+CIvalue: 228585
+
+ID: 59915
+Degree: 96
+CIvalue: 226100
+
+ID: 6231
+Degree: 129
+CIvalue: 224896
+
+ID: 62542
+Degree: 124
+CIvalue: 223860
+
+ID: 3479
+Degree: 223
+CIvalue: 222222
+
+ID: 9704
+Degree: 66
+CIvalue: 220610
+
+ID: 10121
+Degree: 108
+CIvalue: 220527
+
+ID: 1270
+Degree: 94
+CIvalue: 219759
+
+ID: 88572
+Degree: 151
+CIvalue: 217500
+
+ID: 49122
+Degree: 46
+CIvalue: 215145
+
+ID: 4821
+Degree: 106
+CIvalue: 212205
+
+ID: 1548
+Degree: 69
+CIvalue: 210868
+
+ID: 37341
+Degree: 157
+CIvalue: 208728
+
+ID: 76165
+Degree: 107
+CIvalue: 206700
+
+ID: 35729
+Degree: 56
+CIvalue: 204710
+
+ID: 62903
+Degree: 133
+CIvalue: 201300
+
+ID: 189
+Degree: 124
+CIvalue: 200367
+
+ID: 42643
+Degree: 63
+CIvalue: 198276
+
+ID: 14664
+Degree: 117
+CIvalue: 194764
+
+ID: 28664
+Degree: 111
+CIvalue: 193710
+
+ID: 15488
+Degree: 54
+CIvalue: 193662
+
+ID: 8005
+Degree: 133
+CIvalue: 192192
+
+ID: 31240
+Degree: 154
+CIvalue: 188955
+
+ID: 358
+Degree: 136
+CIvalue: 187650
+
+ID: 4214
+Degree: 145
+CIvalue: 186336
+
+ID: 5123
+Degree: 46
+CIvalue: 185175
+
+ID: 523
+Degree: 135
+CIvalue: 184920
+
+ID: 17175
+Degree: 98
+CIvalue: 184203
+
+ID: 1231
+Degree: 99
+CIvalue: 182966
+
+ID: 50282
+Degree: 77
+CIvalue: 181716
+
+ID: 4509
+Degree: 51
+CIvalue: 181700
+
+ID: 7937
+Degree: 171
+CIvalue: 181050
+
+ID: 39523
+Degree: 101
+CIvalue: 180500
+
+ID: 11844
+Degree: 83
+CIvalue: 179006
+
+ID: 35295
+Degree: 87
+CIvalue: 178536
+
+ID: 330
+Degree: 163
+CIvalue: 178038
+
+ID: 115382
+Degree: 157
+CIvalue: 175188
+
+ID: 679
+Degree: 88
+CIvalue: 170433
+
+ID: 64906
+Degree: 49
+CIvalue: 169824
+
+ID: 11346
+Degree: 101
+CIvalue: 169800
+
+ID: 16715
+Degree: 137
+CIvalue: 167824
+
+ID: 26930
+Degree: 111
+CIvalue: 164010
+
+ID: 28462
+Degree: 119
+CIvalue: 163902
+
+ID: 34959
+Degree: 108
+CIvalue: 162747
+
+ID: 52469
+Degree: 92
+CIvalue: 159705
+
+ID: 74014
+Degree: 117
+CIvalue: 159268
+
+ID: 6014
+Degree: 97
+CIvalue: 157056
+
+ID: 6968
+Degree: 184
+CIvalue: 153720
+
+ID: 5859
+Degree: 79
+CIvalue: 152412
+
+ID: 28285
+Degree: 89
+CIvalue: 150920
+
+ID: 69891
+Degree: 88
+CIvalue: 150597
+
+ID: 82268
+Degree: 61
+CIvalue: 150540
+
+ID: 11555
+Degree: 75
+CIvalue: 150146
+
+ID: 28951
+Degree: 43
+CIvalue: 149016
+
+ID: 5508
+Degree: 85
+CIvalue: 148092
+
+ID: 408
+Degree: 124
+CIvalue: 147477
+
+ID: 13765
+Degree: 89
+CIvalue: 147224
+
+ID: 42354
+Degree: 74
+CIvalue: 147168
+
+ID: 92274
+Degree: 48
+CIvalue: 146452
+
+ID: 1322
+Degree: 84
+CIvalue: 145665
+
+ID: 229
+Degree: 116
+CIvalue: 144095
+
+ID: 640
+Degree: 53
+CIvalue: 142948
+
+ID: 86851
+Degree: 110
+CIvalue: 141264
+
+ID: 1971
+Degree: 81
+CIvalue: 139280
+
+ID: 2180
+Degree: 73
+CIvalue: 138168
+
+ID: 4535
+Degree: 126
+CIvalue: 137250
+
+ID: 47666
+Degree: 81
+CIvalue: 137200
+
+ID: 249872
+Degree: 72
+CIvalue: 135042
+
+ID: 9707
+Degree: 116
+CIvalue: 134550
+
+ID: 14674
+Degree: 62
+CIvalue: 134078
+
+ID: 6
+Degree: 83
+CIvalue: 130052
+
+ID: 140893
+Degree: 118
+CIvalue: 129285
+
+ID: 38602
+Degree: 84
+CIvalue: 128982
+
+ID: 4720
+Degree: 61
+CIvalue: 128880
+
+ID: 50297
+Degree: 66
+CIvalue: 128505
+
+ID: 37505
+Degree: 66
+CIvalue: 127920
+
+ID: 10159
+Degree: 79
+CIvalue: 125658
+
+ID: 5005
+Degree: 85
+CIvalue: 125244
+
+ID: 231
+Degree: 87
+CIvalue: 125130
+
+ID: 79648
+Degree: 111
+CIvalue: 122870
+
+ID: 14604
+Degree: 88
+CIvalue: 122670
+
+ID: 67382
+Degree: 45
+CIvalue: 121748
+
+ID: 36558
+Degree: 130
+CIvalue: 121647
+
+ID: 29864
+Degree: 101
+CIvalue: 120800
+
+ID: 62125
+Degree: 131
+CIvalue: 119860
+
+ID: 46117
+Degree: 47
+CIvalue: 118450
+
+ID: 308
+Degree: 149
+CIvalue: 117956
+
+ID: 38009
+Degree: 91
+CIvalue: 116190
+
+ID: 3629
+Degree: 197
+CIvalue: 115836
+
+ID: 273
+Degree: 90
+CIvalue: 114365
+
+ID: 91948
+Degree: 75
+CIvalue: 113886
+
+ID: 5160
+Degree: 53
+CIvalue: 113360
+
+ID: 10924
+Degree: 98
+CIvalue: 112908
+
+ID: 98992
+Degree: 51
+CIvalue: 109800
+
+ID: 17538
+Degree: 130
+CIvalue: 109779
+
+ID: 29233
+Degree: 83
+CIvalue: 109634
+
+ID: 13141
+Degree: 51
+CIvalue: 108250
+
+ID: 2266
+Degree: 73
+CIvalue: 107280
+
+ID: 23680
+Degree: 108
+CIvalue: 107214
+
+ID: 6958
+Degree: 145
+CIvalue: 106272
+
+ID: 18662
+Degree: 134
+CIvalue: 106134
+
+ID: 407
+Degree: 82
+CIvalue: 106029
+
+ID: 12270
+Degree: 85
+CIvalue: 104916
+
+ID: 14469
+Degree: 57
+CIvalue: 104888
+
+ID: 6080
+Degree: 46
+CIvalue: 104175
+
+ID: 36436
+Degree: 80
+CIvalue: 102621
+
+ID: 37563
+Degree: 73
+CIvalue: 101808
+
+ID: 51746
+Degree: 127
+CIvalue: 101556
+
+ID: 26136
+Degree: 52
+CIvalue: 101286
+
+ID: 50227
+Degree: 55
+CIvalue: 99846
+
+ID: 2765
+Degree: 70
+CIvalue: 99360
+
+ID: 2373
+Degree: 65
+CIvalue: 98176
+
+ID: 95910
+Degree: 129
+CIvalue: 97792
+
+ID: 37528
+Degree: 146
+CIvalue: 97440
+
+ID: 34306
+Degree: 77
+CIvalue: 96824
+
+ID: 44456
+Degree: 65
+CIvalue: 96576
+
+ID: 35062
+Degree: 120
+CIvalue: 96152
+
+ID: 59
+Degree: 116
+CIvalue: 95105
+
+ID: 21643
+Degree: 87
+CIvalue: 94944
+
+ID: 30487
+Degree: 54
+CIvalue: 94817
+
+ID: 122488
+Degree: 109
+CIvalue: 92772
+
+ID: 50218
+Degree: 69
+CIvalue: 92752
+
+ID: 376
+Degree: 96
+CIvalue: 92435
+
+ID: 40298
+Degree: 81
+CIvalue: 92160
+
+ID: 64541
+Degree: 75
+CIvalue: 91316
+
+ID: 14166
+Degree: 42
+CIvalue: 91266
+
+ID: 10964
+Degree: 63
+CIvalue: 90892
+
+ID: 17057
+Degree: 59
+CIvalue: 88914
+
+ID: 370
+Degree: 102
+CIvalue: 88476
+
+ID: 385
+Degree: 79
+CIvalue: 88374
+
+ID: 2402
+Degree: 73
+CIvalue: 88272
+
+ID: 7690
+Degree: 86
+CIvalue: 88230
+
+ID: 20244
+Degree: 121
+CIvalue: 87360
+
+ID: 9221
+Degree: 95
+CIvalue: 86104
+
+ID: 31450
+Degree: 76
+CIvalue: 86100
+
+ID: 14376
+Degree: 149
+CIvalue: 85544
+
+ID: 85766
+Degree: 118
+CIvalue: 85059
+
+ID: 52514
+Degree: 121
+CIvalue: 84840
+
+ID: 30324
+Degree: 84
+CIvalue: 84494
+
+ID: 12983
+Degree: 74
+CIvalue: 84388
+
+ID: 885
+Degree: 63
+CIvalue: 83390
+
+ID: 2059
+Degree: 146
+CIvalue: 83375
+
+ID: 23464
+Degree: 113
+CIvalue: 83328
+
+ID: 19908
+Degree: 144
+CIvalue: 82940
+
+ID: 5795
+Degree: 115
+CIvalue: 82650
+
+ID: 832
+Degree: 65
+CIvalue: 81856
+
+ID: 3637
+Degree: 45
+CIvalue: 80344
+
+ID: 4904
+Degree: 80
+CIvalue: 80343
+
+ID: 2696
+Degree: 89
+CIvalue: 79992
+
+ID: 5516
+Degree: 113
+CIvalue: 77952
+
+ID: 4177
+Degree: 37
+CIvalue: 77652
+
+ID: 12324
+Degree: 126
+CIvalue: 77625
+
+ID: 6651
+Degree: 51
+CIvalue: 77250
+
+ID: 11443
+Degree: 133
+CIvalue: 77220
+
+ID: 2824
+Degree: 118
+CIvalue: 77103
+
+ID: 14957
+Degree: 60
+CIvalue: 76936
+
+ID: 920
+Degree: 85
+CIvalue: 76356
+
+ID: 89784
+Degree: 57
+CIvalue: 76216
+
+ID: 357
+Degree: 114
+CIvalue: 76162
+
+ID: 4380
+Degree: 76
+CIvalue: 75075
+
+ID: 239782
+Degree: 244
+CIvalue: 74844
+
+ID: 4
+Degree: 78
+CIvalue: 74613
+
+ID: 1574
+Degree: 133
+CIvalue: 74580
+
+ID: 6686
+Degree: 53
+CIvalue: 74412
+
+ID: 170090
+Degree: 109
+CIvalue: 74304
+
+ID: 33383
+Degree: 97
+CIvalue: 74112
+
+ID: 57882
+Degree: 125
+CIvalue: 73904
+
+ID: 2188
+Degree: 57
+CIvalue: 73416
+
+ID: 11677
+Degree: 62
+CIvalue: 72712
+
+ID: 92575
+Degree: 96
+CIvalue: 72200
+
+ID: 27037
+Degree: 64
+CIvalue: 71505
+
+ID: 7956
+Degree: 113
+CIvalue: 71232
+
+ID: 16708
+Degree: 83
+CIvalue: 70766
+
+ID: 104785
+Degree: 120
+CIvalue: 69972
+
+ID: 89805
+Degree: 46
+CIvalue: 69750
+
+ID: 58574
+Degree: 95
+CIvalue: 69466
+
+ID: 59027
+Degree: 77
+CIvalue: 68856
+
+ID: 2911
+Degree: 63
+CIvalue: 68200
+
+ID: 89925
+Degree: 82
+CIvalue: 67878
+
+ID: 867
+Degree: 89
+CIvalue: 67760
+
+ID: 12755
+Degree: 96
+CIvalue: 67355
+
+ID: 191752
+Degree: 151
+CIvalue: 67200
+
+ID: 13809
+Degree: 45
+CIvalue: 67188
+
+ID: 23727
+Degree: 77
+CIvalue: 67108
+
+ID: 14677
+Degree: 96
+CIvalue: 66595
+
+ID: 7383
+Degree: 58
+CIvalue: 66405
+
+ID: 3360
+Degree: 60
+CIvalue: 66021
+
+ID: 981
+Degree: 193
+CIvalue: 65664
+
+ID: 14602
+Degree: 64
+CIvalue: 65646
+
+ID: 12965
+Degree: 42
+CIvalue: 65354
+
+ID: 182906
+Degree: 46
+CIvalue: 64890
+
+ID: 198081
+Degree: 81
+CIvalue: 64640
+
+ID: 31949
+Degree: 58
+CIvalue: 64353
+
+ID: 3188
+Degree: 71
+CIvalue: 63140
+
+ID: 7689
+Degree: 76
+CIvalue: 63075
+
+ID: 78528
+Degree: 96
+CIvalue: 62605
+
+ID: 12818
+Degree: 44
+CIvalue: 62436
+
+ID: 58028
+Degree: 114
+CIvalue: 62376
+
+ID: 10853
+Degree: 51
+CIvalue: 61950
+
+ID: 63327
+Degree: 68
+CIvalue: 61707
+
+ID: 10855
+Degree: 77
+CIvalue: 61484
+
+ID: 2700
+Degree: 55
+CIvalue: 61398
+
+ID: 11053
+Degree: 60
+CIvalue: 61360
+
+ID: 17507
+Degree: 83
+CIvalue: 61254
+
+ID: 91
+Degree: 74
+CIvalue: 60736
+
+ID: 240
+Degree: 64
+CIvalue: 60039
+
+ID: 73505
+Degree: 50
+CIvalue: 59192
+
+ID: 2244
+Degree: 78
+CIvalue: 58520
+
+ID: 37832
+Degree: 80
+CIvalue: 58460
+
+ID: 188
+Degree: 55
+CIvalue: 58374
+
+ID: 18325
+Degree: 54
+CIvalue: 58300
+
+ID: 19
+Degree: 100
+CIvalue: 57816
+
+ID: 59893
+Degree: 61
+CIvalue: 57360
+
+ID: 64729
+Degree: 44
+CIvalue: 57190
+
+ID: 263505
+Degree: 96
+CIvalue: 57000
+
+ID: 103451
+Degree: 40
+CIvalue: 56433
+
+ID: 2160
+Degree: 48
+CIvalue: 54661
+
+ID: 9682
+Degree: 80
+CIvalue: 54510
+
+ID: 58744
+Degree: 58
+CIvalue: 54435
+
+ID: 7639
+Degree: 59
+CIvalue: 53708
+
+ID: 16188
+Degree: 55
+CIvalue: 53676
+
+ID: 36875
+Degree: 72
+CIvalue: 53179
+
+ID: 965
+Degree: 94
+CIvalue: 53010
+
+ID: 11921
+Degree: 72
+CIvalue: 52966
+
+ID: 40297
+Degree: 60
+CIvalue: 52923
+
+ID: 42927
+Degree: 97
+CIvalue: 51456
+
+ID: 61978
+Degree: 49
+CIvalue: 51360
+
+ID: 33833
+Degree: 54
+CIvalue: 51198
+
+ID: 5207
+Degree: 72
+CIvalue: 51191
+
+ID: 54217
+Degree: 112
+CIvalue: 50949
+
+ID: 2874
+Degree: 78
+CIvalue: 50512
+
+ID: 12265
+Degree: 83
+CIvalue: 50430
+
+ID: 762
+Degree: 60
+CIvalue: 50209
+
+ID: 101738
+Degree: 58
+CIvalue: 49761
+
+ID: 143
+Degree: 90
+CIvalue: 49751
+
+ID: 40285
+Degree: 65
+CIvalue: 49024
+
+ID: 22630
+Degree: 59
+CIvalue: 48720
+
+ID: 12169
+Degree: 61
+CIvalue: 48420
+
+ID: 88564
+Degree: 80
+CIvalue: 48269
+
+ID: 21749
+Degree: 92
+CIvalue: 48139
+
+ID: 21017
+Degree: 41
+CIvalue: 48120
+
+ID: 3979
+Degree: 118
+CIvalue: 47970
+
+ID: 32204
+Degree: 53
+CIvalue: 47060
+
+ID: 110210
+Degree: 82
+CIvalue: 46575
+
+ID: 231650
+Degree: 104
+CIvalue: 45938
+
+ID: 49159
+Degree: 59
+CIvalue: 45530
+
+ID: 27484
+Degree: 35
+CIvalue: 45526
+
+ID: 8021
+Degree: 89
+CIvalue: 45496
+
+ID: 161907
+Degree: 56
+CIvalue: 45430
+
+ID: 119425
+Degree: 33
+CIvalue: 44960
+
+ID: 456
+Degree: 65
+CIvalue: 44800
+
+ID: 7404
+Degree: 65
+CIvalue: 44608
+
+ID: 72658
+Degree: 56
+CIvalue: 44495
+
+ID: 40558
+Degree: 75
+CIvalue: 44104
+
+ID: 2080
+Degree: 60
+CIvalue: 43955
+
+ID: 8404
+Degree: 45
+CIvalue: 43912
+
+ID: 22355
+Degree: 63
+CIvalue: 43772
+
+ID: 42907
+Degree: 38
+CIvalue: 43697
+
+ID: 18431
+Degree: 42
+CIvalue: 43665
+
+ID: 658
+Degree: 76
+CIvalue: 43425
+
+ID: 39959
+Degree: 76
+CIvalue: 43200
+
+ID: 16514
+Degree: 39
+CIvalue: 42940
+
+ID: 22779
+Degree: 71
+CIvalue: 42840
+
+ID: 63
+Degree: 61
+CIvalue: 42780
+
+ID: 27179
+Degree: 104
+CIvalue: 42642
+
+ID: 8756
+Degree: 36
+CIvalue: 42350
+
+ID: 19843
+Degree: 69
+CIvalue: 40800
+
+ID: 86909
+Degree: 39
+CIvalue: 40774
+
+ID: 9106
+Degree: 46
+CIvalue: 39870
+
+ID: 44086
+Degree: 52
+CIvalue: 38658
+
+ID: 121293
+Degree: 50
+CIvalue: 38416
+
+ID: 773
+Degree: 42
+CIvalue: 38335
+
+ID: 13027
+Degree: 42
+CIvalue: 38089
+
+ID: 72108
+Degree: 35
+CIvalue: 37876
+
+ID: 4444
+Degree: 146
+CIvalue: 37845
+
+ID: 816
+Degree: 82
+CIvalue: 37503
+
+ID: 3533
+Degree: 52
+CIvalue: 37332
+
+ID: 18565
+Degree: 48
+CIvalue: 36989
+
+ID: 46754
+Degree: 47
+CIvalue: 36800
+
+ID: 223
+Degree: 88
+CIvalue: 36453
+
+ID: 51757
+Degree: 98
+CIvalue: 36375
+
+ID: 2671
+Degree: 50
+CIvalue: 36358
+
+ID: 69032
+Degree: 54
+CIvalue: 36252
+
+ID: 288958
+Degree: 74
+CIvalue: 36062
+
+ID: 39124
+Degree: 33
+CIvalue: 35872
+
+ID: 2994
+Degree: 68
+CIvalue: 35778
+
+ID: 995
+Degree: 52
+CIvalue: 35139
+
+ID: 95913
+Degree: 83
+CIvalue: 35096
+
+ID: 23956
+Degree: 44
+CIvalue: 35002
+
+ID: 26538
+Degree: 60
+CIvalue: 34810
+
+ID: 60021
+Degree: 76
+CIvalue: 34650
+
+ID: 7067
+Degree: 41
+CIvalue: 34480
+
+ID: 36368
+Degree: 49
+CIvalue: 34080
+
+ID: 66417
+Degree: 46
+CIvalue: 33615
+
+ID: 403
+Degree: 61
+CIvalue: 33540
+
+ID: 89003
+Degree: 62
+CIvalue: 33489
+
+ID: 26195
+Degree: 94
+CIvalue: 33294
+
+ID: 27705
+Degree: 29
+CIvalue: 33264
+
+ID: 7791
+Degree: 49
+CIvalue: 33168
+
+ID: 22084
+Degree: 49
+CIvalue: 33120
+
+ID: 22349
+Degree: 120
+CIvalue: 32725
+
+ID: 235
+Degree: 44
+CIvalue: 32336
+
+ID: 29542
+Degree: 37
+CIvalue: 32076
+
+ID: 2795
+Degree: 74
+CIvalue: 31755
+
+ID: 181190
+Degree: 79
+CIvalue: 31746
+
+ID: 14628
+Degree: 46
+CIvalue: 31680
+
+ID: 31534
+Degree: 113
+CIvalue: 31136
+
+ID: 11876
+Degree: 40
+CIvalue: 31044
+
+ID: 27635
+Degree: 62
+CIvalue: 30500
+
+ID: 756
+Degree: 47
+CIvalue: 30314
+
+ID: 2165
+Degree: 43
+CIvalue: 30240
+
+ID: 75362
+Degree: 65
+CIvalue: 30016
+
+ID: 5071
+Degree: 86
+CIvalue: 30005
+
+ID: 11542
+Degree: 40
+CIvalue: 29913
+
+ID: 55471
+Degree: 63
+CIvalue: 29636
+
+ID: 121028
+Degree: 58
+CIvalue: 29526
+
+ID: 40303
+Degree: 60
+CIvalue: 29205
+
+ID: 1895
+Degree: 78
+CIvalue: 29183
+
+ID: 3845
+Degree: 54
+CIvalue: 29044
+
+ID: 5155
+Degree: 33
+CIvalue: 28768
+
+ID: 5793
+Degree: 112
+CIvalue: 28749
+
+ID: 5206
+Degree: 56
+CIvalue: 28600
+
+ID: 5188
+Degree: 50
+CIvalue: 28567
+
+ID: 16537
+Degree: 39
+CIvalue: 28538
+
+ID: 15998
+Degree: 54
+CIvalue: 28408
+
+ID: 47759
+Degree: 37
+CIvalue: 28008
+
+ID: 76071
+Degree: 78
+CIvalue: 27874
+
+ID: 14085
+Degree: 39
+CIvalue: 27854
+
+ID: 47175
+Degree: 118
+CIvalue: 27846
+
+ID: 58991
+Degree: 66
+CIvalue: 27755
+
+ID: 6897
+Degree: 60
+CIvalue: 27730
+
+ID: 39029
+Degree: 41
+CIvalue: 27600
+
+ID: 65682
+Degree: 49
+CIvalue: 27552
+
+ID: 154462
+Degree: 52
+CIvalue: 27540
+
+ID: 80
+Degree: 53
+CIvalue: 27456
+
+ID: 28516
+Degree: 68
+CIvalue: 27403
+
+ID: 3443
+Degree: 78
+CIvalue: 27027
+
+ID: 98204
+Degree: 33
+CIvalue: 26176
+
+ID: 52200
+Degree: 35
+CIvalue: 26078
+
+ID: 38226
+Degree: 46
+CIvalue: 26010
+
+ID: 6693
+Degree: 39
+CIvalue: 25916
+
+ID: 7691
+Degree: 135
+CIvalue: 25594
+
+ID: 80247
+Degree: 35
+CIvalue: 25534
+
+ID: 400
+Degree: 53
+CIvalue: 25532
+
+ID: 232659
+Degree: 65
+CIvalue: 25472
+
+ID: 32243
+Degree: 40
+CIvalue: 25467
+
+ID: 329706
+Degree: 66
+CIvalue: 25415
+
+ID: 3115
+Degree: 59
+CIvalue: 25172
+
+ID: 6525
+Degree: 43
+CIvalue: 25158
+
+ID: 2162
+Degree: 39
+CIvalue: 25004
+
+ID: 55951
+Degree: 66
+CIvalue: 24830
+
+ID: 126242
+Degree: 52
+CIvalue: 24786
+
+ID: 28458
+Degree: 45
+CIvalue: 24640
+
+ID: 3374
+Degree: 46
+CIvalue: 24615
+
+ID: 72269
+Degree: 55
+CIvalue: 24570
+
+ID: 7569
+Degree: 71
+CIvalue: 24500
+
+ID: 44183
+Degree: 29
+CIvalue: 24444
+
+ID: 4693
+Degree: 38
+CIvalue: 24272
+
+ID: 31975
+Degree: 68
+CIvalue: 23986
+
+ID: 14721
+Degree: 39
+CIvalue: 23978
+
+ID: 33461
+Degree: 52
+CIvalue: 23970
+
+ID: 22470
+Degree: 37
+CIvalue: 23904
+
+ID: 17155
+Degree: 46
+CIvalue: 23850
+
+ID: 52476
+Degree: 56
+CIvalue: 23705
+
+ID: 228
+Degree: 41
+CIvalue: 23520
+
+ID: 233483
+Degree: 45
+CIvalue: 23408
+
+ID: 234284
+Degree: 59
+CIvalue: 23374
+
+ID: 51729
+Degree: 73
+CIvalue: 23328
+
+ID: 31304
+Degree: 70
+CIvalue: 23184
+
+ID: 548
+Degree: 70
+CIvalue: 23184
+
+ID: 973
+Degree: 39
+CIvalue: 23142
+
+ID: 19995
+Degree: 54
+CIvalue: 22843
+
+ID: 33831
+Degree: 73
+CIvalue: 22824
+
+ID: 19559
+Degree: 79
+CIvalue: 22776
+
+ID: 1521
+Degree: 31
+CIvalue: 22740
+
+ID: 18700
+Degree: 45
+CIvalue: 22440
+
+ID: 75846
+Degree: 77
+CIvalue: 22344
+
+ID: 31443
+Degree: 112
+CIvalue: 22311
+
+ID: 73933
+Degree: 46
+CIvalue: 22095
+
+ID: 143824
+Degree: 148
+CIvalue: 21903
+
+ID: 20919
+Degree: 37
+CIvalue: 21852
+
+ID: 39524
+Degree: 83
+CIvalue: 21812
+
+ID: 1253
+Degree: 70
+CIvalue: 21735
+
+ID: 3228
+Degree: 43
+CIvalue: 21672
+
+ID: 188032
+Degree: 40
+CIvalue: 21645
+
+ID: 7717
+Degree: 40
+CIvalue: 21528
+
+ID: 93313
+Degree: 33
+CIvalue: 21504
+
+ID: 1542
+Degree: 76
+CIvalue: 21375
+
+ID: 12224
+Degree: 43
+CIvalue: 21252
+
+ID: 7675
+Degree: 42
+CIvalue: 21156
+
+ID: 38377
+Degree: 37
+CIvalue: 21096
+
+ID: 50230
+Degree: 72
+CIvalue: 21087
+
+ID: 26807
+Degree: 67
+CIvalue: 20922
+
+ID: 73478
+Degree: 99
+CIvalue: 20678
+
+ID: 57541
+Degree: 34
+CIvalue: 20658
+
+ID: 34181
+Degree: 94
+CIvalue: 20553
+
+ID: 38819
+Degree: 33
+CIvalue: 20384
+
+ID: 13641
+Degree: 35
+CIvalue: 20366
+
+ID: 40323
+Degree: 61
+CIvalue: 20220
+
+ID: 16547
+Degree: 34
+CIvalue: 20163
+
+ID: 2193
+Degree: 69
+CIvalue: 20060
+
+ID: 171
+Degree: 62
+CIvalue: 20008
+
+ID: 4642
+Degree: 37
+CIvalue: 19692
+
+ID: 12767
+Degree: 57
+CIvalue: 19600
+
+ID: 3164
+Degree: 49
+CIvalue: 19584
+
+ID: 2922
+Degree: 53
+CIvalue: 19552
+
+ID: 68307
+Degree: 55
+CIvalue: 19494
+
+ID: 22051
+Degree: 54
+CIvalue: 19398
+
+ID: 128855
+Degree: 47
+CIvalue: 19274
+
+ID: 67950
+Degree: 41
+CIvalue: 19240
+
+ID: 55466
+Degree: 80
+CIvalue: 19197
+
+ID: 27071
+Degree: 34
+CIvalue: 19173
+
+ID: 1390
+Degree: 41
+CIvalue: 18920
+
+ID: 3472
+Degree: 46
+CIvalue: 18900
+
+ID: 8294
+Degree: 39
+CIvalue: 18848
+
+ID: 19869
+Degree: 64
+CIvalue: 18459
+
+ID: 22634
+Degree: 31
+CIvalue: 18420
+
+ID: 39874
+Degree: 49
+CIvalue: 18288
+
+ID: 13123
+Degree: 25
+CIvalue: 18240
+
+ID: 12469
+Degree: 41
+CIvalue: 18200
+
+ID: 34305
+Degree: 55
+CIvalue: 17982
+
+ID: 39093
+Degree: 23
+CIvalue: 17974
+
+ID: 92608
+Degree: 67
+CIvalue: 17952
+
+ID: 16204
+Degree: 51
+CIvalue: 17850
+
+ID: 550
+Degree: 48
+CIvalue: 17813
+
+ID: 40305
+Degree: 32
+CIvalue: 17763
+
+ID: 4704
+Degree: 32
+CIvalue: 17732
+
+ID: 5102
+Degree: 40
+CIvalue: 17628
+
+ID: 48920
+Degree: 29
+CIvalue: 17584
+
+ID: 86822
+Degree: 37
+CIvalue: 17568
+
+ID: 16335
+Degree: 47
+CIvalue: 17434
+
+ID: 91500
+Degree: 50
+CIvalue: 17395
+
+ID: 17460
+Degree: 27
+CIvalue: 17394
+
+ID: 20752
+Degree: 51
+CIvalue: 17250
+
+ID: 22823
+Degree: 45
+CIvalue: 17204
+
+ID: 103080
+Degree: 33
+CIvalue: 17088
+
+ID: 4652
+Degree: 56
+CIvalue: 17050
+
+ID: 6674
+Degree: 32
+CIvalue: 16802
+
+ID: 4717
+Degree: 38
+CIvalue: 16798
+
+ID: 16746
+Degree: 137
+CIvalue: 16728
+
+ID: 1959
+Degree: 44
+CIvalue: 16684
+
+ID: 464
+Degree: 41
+CIvalue: 16600
+
+ID: 58522
+Degree: 45
+CIvalue: 16588
+
+ID: 65097
+Degree: 63
+CIvalue: 16430
+
+ID: 4433
+Degree: 67
+CIvalue: 16368
+
+ID: 7643
+Degree: 39
+CIvalue: 16340
+
+ID: 4378
+Degree: 45
+CIvalue: 16280
+
+ID: 25905
+Degree: 43
+CIvalue: 16212
+
+ID: 6703
+Degree: 34
+CIvalue: 16170
+
+ID: 2687
+Degree: 51
+CIvalue: 16150
+
+ID: 9797
+Degree: 52
+CIvalue: 16116
+
+ID: 30228
+Degree: 33
+CIvalue: 16096
+
+ID: 21979
+Degree: 38
+CIvalue: 16095
+
+ID: 2071
+Degree: 66
+CIvalue: 15925
+
+ID: 62209
+Degree: 48
+CIvalue: 15886
+
+ID: 95921
+Degree: 79
+CIvalue: 15834
+
+ID: 18076
+Degree: 31
+CIvalue: 15810
+
+ID: 25934
+Degree: 43
+CIvalue: 15750
+
+ID: 36371
+Degree: 107
+CIvalue: 15688
+
+ID: 12311
+Degree: 65
+CIvalue: 15680
+
+ID: 28586
+Degree: 146
+CIvalue: 15660
+
+ID: 122460
+Degree: 45
+CIvalue: 15532
+
+ID: 51745
+Degree: 63
+CIvalue: 15500
+
+ID: 204654
+Degree: 35
+CIvalue: 15470
+
+ID: 59542
+Degree: 84
+CIvalue: 15438
+
+ID: 16524
+Degree: 33
+CIvalue: 15424
+
+ID: 15113
+Degree: 61
+CIvalue: 15300
+
+ID: 104774
+Degree: 42
+CIvalue: 15293
+
+ID: 59324
+Degree: 35
+CIvalue: 15266
+
+ID: 35738
+Degree: 27
+CIvalue: 15262
+
+ID: 81405
+Degree: 28
+CIvalue: 15039
+
+ID: 16538
+Degree: 24
+CIvalue: 15019
+
+ID: 68446
+Degree: 41
+CIvalue: 15000
+
+ID: 4239
+Degree: 51
+CIvalue: 14950
+
+ID: 33601
+Degree: 58
+CIvalue: 14877
+
+ID: 84647
+Degree: 19
+CIvalue: 14850
+
+ID: 298
+Degree: 56
+CIvalue: 14850
+
+ID: 31028
+Degree: 55
+CIvalue: 14742
+
+ID: 21296
+Degree: 70
+CIvalue: 14628
+
+ID: 2060
+Degree: 50
+CIvalue: 14602
+
+ID: 8303
+Degree: 61
+CIvalue: 14220
+
+ID: 128779
+Degree: 45
+CIvalue: 14212
+
+ID: 3294
+Degree: 22
+CIvalue: 14196
+
+ID: 768
+Degree: 68
+CIvalue: 14137
+
+ID: 34282
+Degree: 58
+CIvalue: 14136
+
+ID: 23866
+Degree: 43
+CIvalue: 13986
+
+ID: 12483
+Degree: 45
+CIvalue: 13948
+
+ID: 24227
+Degree: 24
+CIvalue: 13869
+
+ID: 1647
+Degree: 89
+CIvalue: 13816
+
+ID: 12686
+Degree: 45
+CIvalue: 13816
+
+ID: 27
+Degree: 51
+CIvalue: 13800
+
+ID: 22714
+Degree: 35
+CIvalue: 13770
+
+ID: 157359
+Degree: 33
+CIvalue: 13632
+
+ID: 11149
+Degree: 45
+CIvalue: 13596
+
+ID: 20012
+Degree: 58
+CIvalue: 13566
+
+ID: 91840
+Degree: 25
+CIvalue: 13512
+
+ID: 7279
+Degree: 47
+CIvalue: 13432
+
+ID: 6742
+Degree: 95
+CIvalue: 13348
+
+ID: 8757
+Degree: 37
+CIvalue: 13320
+
+ID: 57739
+Degree: 42
+CIvalue: 13284
+
+ID: 14571
+Degree: 58
+CIvalue: 13281
+
+ID: 28091
+Degree: 56
+CIvalue: 13255
+
+ID: 19150
+Degree: 47
+CIvalue: 13248
+
+ID: 36556
+Degree: 52
+CIvalue: 13209
+
+ID: 27004
+Degree: 47
+CIvalue: 13156
+
+ID: 40973
+Degree: 39
+CIvalue: 13110
+
+ID: 68702
+Degree: 60
+CIvalue: 13098
+
+ID: 10513
+Degree: 39
+CIvalue: 13072
+
+ID: 4528
+Degree: 31
+CIvalue: 13050
+
+ID: 462
+Degree: 29
+CIvalue: 13048
+
+ID: 87263
+Degree: 33
+CIvalue: 13024
+
+ID: 37726
+Degree: 51
+CIvalue: 13000
+
+ID: 35365
+Degree: 57
+CIvalue: 12992
+
+ID: 22816
+Degree: 39
+CIvalue: 12882
+
+ID: 28976
+Degree: 44
+CIvalue: 12728
+
+ID: 21585
+Degree: 42
+CIvalue: 12669
+
+ID: 62205
+Degree: 47
+CIvalue: 12604
+
+ID: 43905
+Degree: 41
+CIvalue: 12520
+
+ID: 83432
+Degree: 35
+CIvalue: 12478
+
+ID: 10859
+Degree: 50
+CIvalue: 12299
+
+ID: 22642
+Degree: 33
+CIvalue: 12128
+
+ID: 42922
+Degree: 57
+CIvalue: 12040
+
+ID: 310
+Degree: 79
+CIvalue: 12012
+
+ID: 30513
+Degree: 80
+CIvalue: 12008
+
+ID: 95871
+Degree: 34
+CIvalue: 11979
+
+ID: 27869
+Degree: 36
+CIvalue: 11935
+
+ID: 50679
+Degree: 44
+CIvalue: 11868
+
+ID: 4365
+Degree: 27
+CIvalue: 11856
+
+ID: 2839
+Degree: 47
+CIvalue: 11822
+
+ID: 52908
+Degree: 34
+CIvalue: 11781
+
+ID: 2786
+Degree: 31
+CIvalue: 11700
+
+ID: 21695
+Degree: 32
+CIvalue: 11687
+
+ID: 51715
+Degree: 32
+CIvalue: 11687
+
+ID: 56860
+Degree: 78
+CIvalue: 11627
+
+ID: 10704
+Degree: 55
+CIvalue: 11556
+
+ID: 20359
+Degree: 52
+CIvalue: 11526
+
+ID: 30218
+Degree: 32
+CIvalue: 11501
+
+ID: 75441
+Degree: 27
+CIvalue: 11492
+
+ID: 2218
+Degree: 47
+CIvalue: 11454
+
+ID: 62940
+Degree: 31
+CIvalue: 11430
+
+ID: 216655
+Degree: 42
+CIvalue: 11398
+
+ID: 716
+Degree: 95
+CIvalue: 11374
+
+ID: 31248
+Degree: 57
+CIvalue: 11312
+
+ID: 4929
+Degree: 37
+CIvalue: 11304
+
+ID: 8925
+Degree: 40
+CIvalue: 11271
+
+ID: 50242
+Degree: 21
+CIvalue: 11260
+
+ID: 68729
+Degree: 54
+CIvalue: 11236
+
+ID: 47490
+Degree: 49
+CIvalue: 11184
+
+ID: 203735
+Degree: 48
+CIvalue: 11139
+
+ID: 11692
+Degree: 38
+CIvalue: 10989
+
+ID: 10726
+Degree: 31
+CIvalue: 10950
+
+ID: 137271
+Degree: 62
+CIvalue: 10919
+
+ID: 27712
+Degree: 43
+CIvalue: 10878
+
+ID: 14907
+Degree: 27
+CIvalue: 10816
+
+ID: 9974
+Degree: 34
+CIvalue: 10725
+
+ID: 34797
+Degree: 43
+CIvalue: 10710
+
+ID: 129069
+Degree: 40
+CIvalue: 10647
+
+ID: 62217
+Degree: 32
+CIvalue: 10571
+
+ID: 13603
+Degree: 43
+CIvalue: 10542
+
+ID: 3361
+Degree: 30
+CIvalue: 10527
+
+ID: 6660
+Degree: 37
+CIvalue: 10512
+
+ID: 3772
+Degree: 37
+CIvalue: 10512
+
+ID: 5500
+Degree: 36
+CIvalue: 10500
+
+ID: 50276
+Degree: 24
+CIvalue: 10465
+
+ID: 51704
+Degree: 32
+CIvalue: 10447
+
+ID: 21949
+Degree: 41
+CIvalue: 10440
+
+ID: 2236
+Degree: 37
+CIvalue: 10440
+
+ID: 59985
+Degree: 26
+CIvalue: 10325
+
+ID: 84
+Degree: 38
+CIvalue: 10286
+
+ID: 3233
+Degree: 77
+CIvalue: 10260
+
+ID: 8498
+Degree: 54
+CIvalue: 10229
+
+ID: 58739
+Degree: 41
+CIvalue: 10200
+
+ID: 43722
+Degree: 27
+CIvalue: 10166
+
+ID: 38677
+Degree: 51
+CIvalue: 10150
+
+ID: 54200
+Degree: 60
+CIvalue: 10148
+
+ID: 2866
+Degree: 24
+CIvalue: 10143
+
+ID: 74295
+Degree: 30
+CIvalue: 10121
+
+ID: 14845
+Degree: 37
+CIvalue: 10116
+
+ID: 43371
+Degree: 53
+CIvalue: 10088
+
+ID: 30578
+Degree: 54
+CIvalue: 10070
+
+ID: 45
+Degree: 42
+CIvalue: 10045
+
+ID: 8391
+Degree: 29
+CIvalue: 10024
+
+ID: 24
+Degree: 38
+CIvalue: 9990
+
+ID: 75797
+Degree: 28
+CIvalue: 9855
+
+ID: 16824
+Degree: 29
+CIvalue: 9800
+
+ID: 3999
+Degree: 24
+CIvalue: 9798
+
+ID: 7566
+Degree: 51
+CIvalue: 9750
+
+ID: 40608
+Degree: 31
+CIvalue: 9720
+
+ID: 45144
+Degree: 46
+CIvalue: 9720
+
+ID: 36363
+Degree: 43
+CIvalue: 9702
+
+ID: 37820
+Degree: 33
+CIvalue: 9664
+
+ID: 24923
+Degree: 31
+CIvalue: 9630
+
+ID: 70897
+Degree: 34
+CIvalue: 9570
+
+ID: 59026
+Degree: 32
+CIvalue: 9548
+
+ID: 49685
+Degree: 31
+CIvalue: 9540
+
+ID: 2312
+Degree: 43
+CIvalue: 9534
+
+ID: 112050
+Degree: 58
+CIvalue: 9462
+
+ID: 1425
+Degree: 23
+CIvalue: 9460
+
+ID: 5380
+Degree: 46
+CIvalue: 9450
+
+ID: 14539
+Degree: 47
+CIvalue: 9430
+
+ID: 57
+Degree: 28
+CIvalue: 9423
+
+ID: 50052
+Degree: 30
+CIvalue: 9367
+
+ID: 117155
+Degree: 56
+CIvalue: 9350
+
+ID: 88999
+Degree: 54
+CIvalue: 9328
+
+ID: 51637
+Degree: 50
+CIvalue: 9310
+
+ID: 35353
+Degree: 37
+CIvalue: 9288
+
+ID: 39501
+Degree: 40
+CIvalue: 9204
+
+ID: 24272
+Degree: 51
+CIvalue: 9200
+
+ID: 225908
+Degree: 64
+CIvalue: 9198
+
+ID: 225318
+Degree: 39
+CIvalue: 9196
+
+ID: 22814
+Degree: 24
+CIvalue: 9177
+
+ID: 68206
+Degree: 32
+CIvalue: 9114
+
+ID: 179509
+Degree: 28
+CIvalue: 9072
+
+ID: 22774
+Degree: 52
+CIvalue: 9027
+
+ID: 109379
+Degree: 41
+CIvalue: 9000
+
+ID: 66278
+Degree: 47
+CIvalue: 8970
+
+ID: 29264
+Degree: 22
+CIvalue: 8967
+
+ID: 433454
+Degree: 54
+CIvalue: 8957
+
+ID: 53222
+Degree: 25
+CIvalue: 8952
+
+ID: 14600
+Degree: 34
+CIvalue: 8910
+
+ID: 53504
+Degree: 34
+CIvalue: 8877
+
+ID: 2668
+Degree: 64
+CIvalue: 8757
+
+ID: 10819
+Degree: 22
+CIvalue: 8736
+
+ID: 14725
+Degree: 30
+CIvalue: 8671
+
+ID: 40261
+Degree: 30
+CIvalue: 8613
+
+ID: 31836
+Degree: 36
+CIvalue: 8610
+
+ID: 5038
+Degree: 46
+CIvalue: 8595
+
+ID: 59012
+Degree: 76
+CIvalue: 8550
+
+ID: 502
+Degree: 31
+CIvalue: 8400
+
+ID: 22849
+Degree: 29
+CIvalue: 8344
+
+ID: 4916
+Degree: 41
+CIvalue: 8320
+
+ID: 47828
+Degree: 44
+CIvalue: 8299
+
+ID: 2308
+Degree: 37
+CIvalue: 8280
+
+ID: 32526
+Degree: 30
+CIvalue: 8265
+
+ID: 42291
+Degree: 34
+CIvalue: 8250
+
+ID: 50942
+Degree: 17
+CIvalue: 8240
+
+ID: 4740
+Degree: 33
+CIvalue: 8192
+
+ID: 12606
+Degree: 33
+CIvalue: 8192
+
+ID: 121428
+Degree: 22
+CIvalue: 8190
+
+ID: 66350
+Degree: 40
+CIvalue: 8190
+
+ID: 36216
+Degree: 57
+CIvalue: 8120
+
+ID: 28962
+Degree: 22
+CIvalue: 8064
+
+ID: 1416
+Degree: 43
+CIvalue: 8064
+
+ID: 8282
+Degree: 30
+CIvalue: 8062
+
+ID: 7551
+Degree: 28
+CIvalue: 8019
+
+ID: 13758
+Degree: 51
+CIvalue: 8000
+
+ID: 11095
+Degree: 38
+CIvalue: 7992
+
+ID: 2919
+Degree: 39
+CIvalue: 7942
+
+ID: 11882
+Degree: 37
+CIvalue: 7920
+
+ID: 35348
+Degree: 18
+CIvalue: 7888
+
+ID: 42173
+Degree: 25
+CIvalue: 7872
+
+ID: 359960
+Degree: 48
+CIvalue: 7849
+
+ID: 8719
+Degree: 37
+CIvalue: 7848
+
+ID: 3777
+Degree: 47
+CIvalue: 7820
+
+ID: 17881
+Degree: 32
+CIvalue: 7781
+
+ID: 96022
+Degree: 31
+CIvalue: 7740
+
+ID: 78773
+Degree: 53
+CIvalue: 7696
+
+ID: 106825
+Degree: 51
+CIvalue: 7650
+
+ID: 2387
+Degree: 22
+CIvalue: 7623
+
+ID: 30790
+Degree: 27
+CIvalue: 7618
+
+ID: 26677
+Degree: 45
+CIvalue: 7612
+
+ID: 60146
+Degree: 26
+CIvalue: 7600
+
+ID: 129563
+Degree: 111
+CIvalue: 7590
+
+ID: 582
+Degree: 40
+CIvalue: 7566
+
+ID: 6909
+Degree: 32
+CIvalue: 7564
+
+ID: 26540
+Degree: 45
+CIvalue: 7524
+
+ID: 19922
+Degree: 51
+CIvalue: 7500
+
+ID: 11891
+Degree: 26
+CIvalue: 7500
+
+ID: 22450
+Degree: 18
+CIvalue: 7480
+
+ID: 3807
+Degree: 23
+CIvalue: 7414
+
+ID: 6657
+Degree: 31
+CIvalue: 7410
+
+ID: 50329
+Degree: 24
+CIvalue: 7406
+
+ID: 134095
+Degree: 34
+CIvalue: 7392
+
+ID: 221
+Degree: 66
+CIvalue: 7345
+
+ID: 38382
+Degree: 44
+CIvalue: 7310
+
+ID: 85437
+Degree: 102
+CIvalue: 7272
+
+ID: 9905
+Degree: 31
+CIvalue: 7200
+
+ID: 22955
+Degree: 28
+CIvalue: 7182
+
+ID: 338884
+Degree: 35
+CIvalue: 7174
+
+ID: 14642
+Degree: 30
+CIvalue: 7163
+
+ID: 6496
+Degree: 52
+CIvalue: 7140
+
+ID: 3239
+Degree: 24
+CIvalue: 7084
+
+ID: 50266
+Degree: 41
+CIvalue: 7080
+
+ID: 34810
+Degree: 33
+CIvalue: 7072
+
+ID: 13938
+Degree: 56
+CIvalue: 7040
+
+ID: 16529
+Degree: 41
+CIvalue: 7040
+
+ID: 12513
+Degree: 52
+CIvalue: 7038
+
+ID: 47821
+Degree: 39
+CIvalue: 6954
+
+ID: 37162
+Degree: 28
+CIvalue: 6939
+
+ID: 85083
+Degree: 35
+CIvalue: 6902
+
+ID: 459
+Degree: 43
+CIvalue: 6888
+
+ID: 125816
+Degree: 26
+CIvalue: 6875
+
+ID: 33480
+Degree: 31
+CIvalue: 6870
+
+ID: 191083
+Degree: 43
+CIvalue: 6846
+
+ID: 9191
+Degree: 18
+CIvalue: 6834
+
+ID: 74604
+Degree: 36
+CIvalue: 6825
+
+ID: 77179
+Degree: 41
+CIvalue: 6800
+
+ID: 24773
+Degree: 60
+CIvalue: 6785
+
+ID: 18364
+Degree: 29
+CIvalue: 6776
+
+ID: 85592
+Degree: 184
+CIvalue: 6771
+
+ID: 45004
+Degree: 25
+CIvalue: 6768
+
+ID: 61944
+Degree: 21
+CIvalue: 6760
+
+ID: 14731
+Degree: 36
+CIvalue: 6755
+
+ID: 4123
+Degree: 28
+CIvalue: 6750
+
+ID: 2143
+Degree: 29
+CIvalue: 6664
+
+ID: 13854
+Degree: 32
+CIvalue: 6572
+
+ID: 3232
+Degree: 43
+CIvalue: 6552
+
+ID: 11135
+Degree: 22
+CIvalue: 6552
+
+ID: 24757
+Degree: 36
+CIvalue: 6475
+
+ID: 17332
+Degree: 24
+CIvalue: 6463
+
+ID: 152137
+Degree: 43
+CIvalue: 6426
+
+ID: 59337
+Degree: 29
+CIvalue: 6412
+
+ID: 25094
+Degree: 53
+CIvalue: 6396
+
+ID: 82825
+Degree: 35
+CIvalue: 6358
+
+ID: 109647
+Degree: 23
+CIvalue: 6314
+
+ID: 67792
+Degree: 51
+CIvalue: 6300
+
+ID: 67505
+Degree: 25
+CIvalue: 6288
+
+ID: 96963
+Degree: 43
+CIvalue: 6216
+
+ID: 106282
+Degree: 45
+CIvalue: 6204
+
+ID: 63856
+Degree: 41
+CIvalue: 6200
+
+ID: 89807
+Degree: 24
+CIvalue: 6187
+
+ID: 23576
+Degree: 24
+CIvalue: 6187
+
+ID: 79647
+Degree: 45
+CIvalue: 6160
+
+ID: 89016
+Degree: 67
+CIvalue: 6138
+
+ID: 9226
+Degree: 21
+CIvalue: 6120
+
+ID: 26755
+Degree: 24
+CIvalue: 6118
+
+ID: 37526
+Degree: 29
+CIvalue: 6076
+
+ID: 182158
+Degree: 21
+CIvalue: 6060
+
+ID: 69890
+Degree: 38
+CIvalue: 6031
+
+ID: 147538
+Degree: 20
+CIvalue: 6023
+
+ID: 74030
+Degree: 32
+CIvalue: 6014
+
+ID: 90152
+Degree: 23
+CIvalue: 5984
+
+ID: 20373
+Degree: 19
+CIvalue: 5976
+
+ID: 99104
+Degree: 26
+CIvalue: 5975
+
+ID: 73556
+Degree: 22
+CIvalue: 5964
+
+ID: 60365
+Degree: 46
+CIvalue: 5895
+
+ID: 45421
+Degree: 29
+CIvalue: 5852
+
+ID: 137242
+Degree: 23
+CIvalue: 5852
+
+ID: 20103
+Degree: 131
+CIvalue: 5850
+
+ID: 7634
+Degree: 26
+CIvalue: 5850
+
+ID: 875
+Degree: 47
+CIvalue: 5842
+
+ID: 16699
+Degree: 34
+CIvalue: 5841
+
+ID: 19009
+Degree: 56
+CIvalue: 5830
+
+ID: 8299
+Degree: 29
+CIvalue: 5824
+
+ID: 39888
+Degree: 23
+CIvalue: 5808
+
+ID: 50199
+Degree: 32
+CIvalue: 5797
+
+ID: 41278
+Degree: 32
+CIvalue: 5797
+
+ID: 187844
+Degree: 29
+CIvalue: 5796
+
+ID: 31086
+Degree: 26
+CIvalue: 5775
+
+ID: 154451
+Degree: 33
+CIvalue: 5760
+
+ID: 1277
+Degree: 37
+CIvalue: 5760
+
+ID: 5006
+Degree: 33
+CIvalue: 5760
+
+ID: 11405
+Degree: 30
+CIvalue: 5742
+
+ID: 12464
+Degree: 34
+CIvalue: 5709
+
+ID: 41725
+Degree: 35
+CIvalue: 5678
+
+ID: 26927
+Degree: 23
+CIvalue: 5676
+
+ID: 31510
+Degree: 45
+CIvalue: 5676
+
+ID: 23694
+Degree: 36
+CIvalue: 5670
+
+ID: 38695
+Degree: 22
+CIvalue: 5649
+
+ID: 111105
+Degree: 27
+CIvalue: 5642
+
+ID: 88570
+Degree: 61
+CIvalue: 5640
+
+ID: 54856
+Degree: 19
+CIvalue: 5562
+
+ID: 73343
+Degree: 33
+CIvalue: 5536
+
+ID: 12648
+Degree: 42
+CIvalue: 5494
+
+ID: 6695
+Degree: 21
+CIvalue: 5480
+
+ID: 11945
+Degree: 36
+CIvalue: 5460
+
+ID: 3603
+Degree: 22
+CIvalue: 5418
+
+ID: 49178
+Degree: 59
+CIvalue: 5394
+
+ID: 56797
+Degree: 57
+CIvalue: 5376
+
+ID: 60163
+Degree: 23
+CIvalue: 5368
+
+ID: 2237
+Degree: 32
+CIvalue: 5363
+
+ID: 37964
+Degree: 27
+CIvalue: 5356
+
+ID: 57738
+Degree: 31
+CIvalue: 5340
+
+ID: 53801
+Degree: 28
+CIvalue: 5292
+
+ID: 43597
+Degree: 42
+CIvalue: 5289
+
+ID: 217199
+Degree: 25
+CIvalue: 5232
+
+ID: 62215
+Degree: 46
+CIvalue: 5220
+
+ID: 35242
+Degree: 33
+CIvalue: 5216
+
+ID: 20624
+Degree: 19
+CIvalue: 5202
+
+ID: 99084
+Degree: 22
+CIvalue: 5187
+
+ID: 21996
+Degree: 46
+CIvalue: 5175
+
+ID: 10896
+Degree: 24
+CIvalue: 5129
+
+ID: 9155
+Degree: 24
+CIvalue: 5129
+
+ID: 249
+Degree: 36
+CIvalue: 5075
+
+ID: 78809
+Degree: 38
+CIvalue: 5069
+
+ID: 63143
+Degree: 18
+CIvalue: 5066
+
+ID: 8077
+Degree: 45
+CIvalue: 5060
+
+ID: 72657
+Degree: 28
+CIvalue: 5049
+
+ID: 23716
+Degree: 28
+CIvalue: 5049
+
+ID: 41353
+Degree: 29
+CIvalue: 5012
+
+ID: 65141
+Degree: 54
+CIvalue: 4982
+
+ID: 12949
+Degree: 26
+CIvalue: 4975
+
+ID: 16441
+Degree: 37
+CIvalue: 4932
+
+ID: 7646
+Degree: 19
+CIvalue: 4932
+
+ID: 166173
+Degree: 21
+CIvalue: 4920
+
+ID: 14661
+Degree: 25
+CIvalue: 4896
+
+ID: 419
+Degree: 34
+CIvalue: 4884
+
+ID: 55955
+Degree: 29
+CIvalue: 4872
+
+ID: 216246
+Degree: 39
+CIvalue: 4864
+
+ID: 35371
+Degree: 31
+CIvalue: 4830
+
+ID: 93181
+Degree: 18
+CIvalue: 4828
+
+ID: 781
+Degree: 51
+CIvalue: 4800
+
+ID: 38040
+Degree: 27
+CIvalue: 4784
+
+ID: 37443
+Degree: 28
+CIvalue: 4752
+
+ID: 44
+Degree: 32
+CIvalue: 4743
+
+ID: 80879
+Degree: 23
+CIvalue: 4730
+
+ID: 14355
+Degree: 23
+CIvalue: 4686
+
+ID: 2356
+Degree: 22
+CIvalue: 4683
+
+ID: 52413
+Degree: 25
+CIvalue: 4680
+
+ID: 4485
+Degree: 30
+CIvalue: 4669
+
+ID: 116323
+Degree: 22
+CIvalue: 4662
+
+ID: 52268
+Degree: 17
+CIvalue: 4656
+
+ID: 67159
+Degree: 31
+CIvalue: 4650
+
+ID: 1205
+Degree: 36
+CIvalue: 4620
+
+ID: 17729
+Degree: 75
+CIvalue: 4588
+
+ID: 1546
+Degree: 38
+CIvalue: 4588
+
+ID: 122438
+Degree: 39
+CIvalue: 4560
+
+ID: 68885
+Degree: 25
+CIvalue: 4560
+
+ID: 4994
+Degree: 21
+CIvalue: 4540
+
+ID: 74346
+Degree: 23
+CIvalue: 4488
+
+ID: 50209
+Degree: 19
+CIvalue: 4464
+
+ID: 209539
+Degree: 28
+CIvalue: 4455
+
+ID: 93051
+Degree: 35
+CIvalue: 4454
+
+ID: 16313
+Degree: 39
+CIvalue: 4446
+
+ID: 37437
+Degree: 20
+CIvalue: 4446
+
+ID: 43673
+Degree: 28
+CIvalue: 4401
+
+ID: 17145
+Degree: 15
+CIvalue: 4396
+
+ID: 3861
+Degree: 27
+CIvalue: 4394
+
+ID: 42380
+Degree: 35
+CIvalue: 4386
+
+ID: 106
+Degree: 31
+CIvalue: 4380
+
+ID: 7266
+Degree: 82
+CIvalue: 4374
+
+ID: 11998
+Degree: 35
+CIvalue: 4352
+
+ID: 265613
+Degree: 54
+CIvalue: 4346
+
+ID: 110223
+Degree: 27
+CIvalue: 4342
+
+ID: 156668
+Degree: 20
+CIvalue: 4332
+
+ID: 10446
+Degree: 26
+CIvalue: 4325
+
+ID: 88558
+Degree: 53
+CIvalue: 4316
+
+ID: 59529
+Degree: 74
+CIvalue: 4307
+
+ID: 18654
+Degree: 22
+CIvalue: 4305
+
+ID: 51889
+Degree: 16
+CIvalue: 4275
+
+ID: 7782
+Degree: 58
+CIvalue: 4275
+
+ID: 58742
+Degree: 40
+CIvalue: 4251
+
+ID: 61287
+Degree: 25
+CIvalue: 4224
+
+ID: 103921
+Degree: 85
+CIvalue: 4200
+
+ID: 133434
+Degree: 18
+CIvalue: 4199
+
+ID: 18792
+Degree: 36
+CIvalue: 4165
+
+ID: 167882
+Degree: 50
+CIvalue: 4165
+
+ID: 16210
+Degree: 32
+CIvalue: 4154
+
+ID: 37503
+Degree: 22
+CIvalue: 4137
+
+ID: 54214
+Degree: 35
+CIvalue: 4114
+
+ID: 56022
+Degree: 17
+CIvalue: 4096
+
+ID: 28493
+Degree: 36
+CIvalue: 4095
+
+ID: 529
+Degree: 22
+CIvalue: 4074
+
+ID: 9107
+Degree: 23
+CIvalue: 4048
+
+ID: 21007
+Degree: 17
+CIvalue: 4032
+
+ID: 34460
+Degree: 18
+CIvalue: 4029
+
+ID: 11852
+Degree: 26
+CIvalue: 4025
+
+ID: 16003
+Degree: 22
+CIvalue: 4011
+
+ID: 22185
+Degree: 28
+CIvalue: 3996
+
+ID: 29230
+Degree: 42
+CIvalue: 3977
+
+ID: 9192
+Degree: 14
+CIvalue: 3965
+
+ID: 17358
+Degree: 51
+CIvalue: 3950
+
+ID: 106299
+Degree: 23
+CIvalue: 3938
+
+ID: 14934
+Degree: 34
+CIvalue: 3927
+
+ID: 71218
+Degree: 21
+CIvalue: 3920
+
+ID: 219683
+Degree: 27
+CIvalue: 3900
+
+ID: 28872
+Degree: 24
+CIvalue: 3841
+
+ID: 8711
+Degree: 27
+CIvalue: 3822
+
+ID: 26694
+Degree: 18
+CIvalue: 3808
+
+ID: 25784
+Degree: 48
+CIvalue: 3807
+
+ID: 21606
+Degree: 22
+CIvalue: 3801
+
+ID: 1997
+Degree: 34
+CIvalue: 3795
+
+ID: 54258
+Degree: 15
+CIvalue: 3752
+
+ID: 18038
+Degree: 16
+CIvalue: 3750
+
+ID: 5307
+Degree: 49
+CIvalue: 3744
+
+ID: 95896
+Degree: 38
+CIvalue: 3737
+
+ID: 39782
+Degree: 18
+CIvalue: 3723
+
+ID: 11355
+Degree: 31
+CIvalue: 3720
+
+ID: 4885
+Degree: 23
+CIvalue: 3718
+
+ID: 73979
+Degree: 33
+CIvalue: 3712
+
+ID: 34071
+Degree: 22
+CIvalue: 3696
+
+ID: 37803
+Degree: 39
+CIvalue: 3686
+
+ID: 91115
+Degree: 30
+CIvalue: 3683
+
+ID: 24031
+Degree: 37
+CIvalue: 3672
+
+ID: 4984
+Degree: 29
+CIvalue: 3668
+
+ID: 21134
+Degree: 29
+CIvalue: 3668
+
+ID: 93162
+Degree: 21
+CIvalue: 3660
+
+ID: 41179
+Degree: 20
+CIvalue: 3648
+
+ID: 35731
+Degree: 18
+CIvalue: 3621
+
+ID: 74421
+Degree: 23
+CIvalue: 3608
+
+ID: 30639
+Degree: 18
+CIvalue: 3604
+
+ID: 55151
+Degree: 18
+CIvalue: 3604
+
+ID: 36572
+Degree: 63
+CIvalue: 3596
+
+ID: 123135
+Degree: 27
+CIvalue: 3588
+
+ID: 7694
+Degree: 57
+CIvalue: 3584
+
+ID: 90083
+Degree: 15
+CIvalue: 3584
+
+ID: 24099
+Degree: 23
+CIvalue: 3542
+
+ID: 7340
+Degree: 34
+CIvalue: 3498
+
+ID: 297
+Degree: 37
+CIvalue: 3492
+
+ID: 10287
+Degree: 29
+CIvalue: 3472
+
+ID: 12352
+Degree: 31
+CIvalue: 3450
+
+ID: 114312
+Degree: 29
+CIvalue: 3444
+
+ID: 101717
+Degree: 38
+CIvalue: 3441
+
+ID: 113358
+Degree: 20
+CIvalue: 3420
+
+ID: 36989
+Degree: 20
+CIvalue: 3420
+
+ID: 38001
+Degree: 14
+CIvalue: 3419
+
+ID: 2042
+Degree: 52
+CIvalue: 3417
+
+ID: 53733
+Degree: 29
+CIvalue: 3416
+
+ID: 15801
+Degree: 15
+CIvalue: 3416
+
+ID: 26152
+Degree: 25
+CIvalue: 3408
+
+ID: 52920
+Degree: 30
+CIvalue: 3393
+
+ID: 52199
+Degree: 20
+CIvalue: 3363
+
+ID: 14613
+Degree: 42
+CIvalue: 3362
+
+ID: 329
+Degree: 41
+CIvalue: 3360
+
+ID: 8126
+Degree: 29
+CIvalue: 3360
+
+ID: 52204
+Degree: 36
+CIvalue: 3360
+
+ID: 43914
+Degree: 25
+CIvalue: 3336
+
+ID: 27682
+Degree: 35
+CIvalue: 3332
+
+ID: 86973
+Degree: 19
+CIvalue: 3330
+
+ID: 41395
+Degree: 23
+CIvalue: 3322
+
+ID: 71311
+Degree: 21
+CIvalue: 3320
+
+ID: 36244
+Degree: 51
+CIvalue: 3300
+
+ID: 26092
+Degree: 19
+CIvalue: 3294
+
+ID: 26753
+Degree: 38
+CIvalue: 3293
+
+ID: 3816
+Degree: 20
+CIvalue: 3287
+
+ID: 48530
+Degree: 16
+CIvalue: 3285
+
+ID: 287085
+Degree: 31
+CIvalue: 3270
+
+ID: 10914
+Degree: 39
+CIvalue: 3268
+
+ID: 9104
+Degree: 22
+CIvalue: 3255
+
+ID: 38728
+Degree: 46
+CIvalue: 3240
+
+ID: 3341
+Degree: 55
+CIvalue: 3240
+
+ID: 147241
+Degree: 21
+CIvalue: 3220
+
+ID: 9851
+Degree: 38
+CIvalue: 3219
+
+ID: 53331
+Degree: 13
+CIvalue: 3216
+
+ID: 57289
+Degree: 17
+CIvalue: 3200
+
+ID: 4875
+Degree: 18
+CIvalue: 3196
+
+ID: 6669
+Degree: 15
+CIvalue: 3192
+
+ID: 7514
+Degree: 40
+CIvalue: 3159
+
+ID: 8903
+Degree: 24
+CIvalue: 3151
+
+ID: 60350
+Degree: 24
+CIvalue: 3151
+
+ID: 43684
+Degree: 26
+CIvalue: 3150
+
+ID: 10894
+Degree: 27
+CIvalue: 3146
+
+ID: 6671
+Degree: 21
+CIvalue: 3140
+
+ID: 62514
+Degree: 20
+CIvalue: 3116
+
+ID: 95510
+Degree: 19
+CIvalue: 3114
+
+ID: 73941
+Degree: 23
+CIvalue: 3102
+
+ID: 64550
+Degree: 21
+CIvalue: 3100
+
+ID: 41425
+Degree: 25
+CIvalue: 3096
+
+ID: 20399
+Degree: 44
+CIvalue: 3096
+
+ID: 4957
+Degree: 23
+CIvalue: 3058
+
+ID: 12666
+Degree: 28
+CIvalue: 3051
+
+ID: 225087
+Degree: 51
+CIvalue: 3050
+
+ID: 3390
+Degree: 33
+CIvalue: 3040
+
+ID: 17508
+Degree: 22
+CIvalue: 3024
+
+ID: 10987
+Degree: 32
+CIvalue: 3007
+
+ID: 14570
+Degree: 25
+CIvalue: 3000
+
+ID: 9218
+Degree: 15
+CIvalue: 2996
+
+ID: 80429
+Degree: 20
+CIvalue: 2983
+
+ID: 2010
+Degree: 32
+CIvalue: 2945
+
+ID: 134560
+Degree: 49
+CIvalue: 2928
+
+ID: 342688
+Degree: 25
+CIvalue: 2928
+
+ID: 48532
+Degree: 23
+CIvalue: 2926
+
+ID: 89010
+Degree: 40
+CIvalue: 2925
+
+ID: 31337
+Degree: 24
+CIvalue: 2921
+
+ID: 19178
+Degree: 14
+CIvalue: 2912
+
+ID: 8602
+Degree: 23
+CIvalue: 2882
+
+ID: 48073
+Degree: 41
+CIvalue: 2880
+
+ID: 22781
+Degree: 21
+CIvalue: 2880
+
+ID: 35597
+Degree: 41
+CIvalue: 2880
+
+ID: 40295
+Degree: 24
+CIvalue: 2875
+
+ID: 10694
+Degree: 30
+CIvalue: 2871
+
+ID: 27135
+Degree: 16
+CIvalue: 2850
+
+ID: 40282
+Degree: 33
+CIvalue: 2848
+
+ID: 38632
+Degree: 27
+CIvalue: 2834
+
+ID: 3214
+Degree: 15
+CIvalue: 2828
+
+ID: 266
+Degree: 29
+CIvalue: 2828
+
+ID: 6308
+Degree: 19
+CIvalue: 2826
+
+ID: 277615
+Degree: 26
+CIvalue: 2825
+
+ID: 63773
+Degree: 35
+CIvalue: 2822
+
+ID: 42287
+Degree: 32
+CIvalue: 2821
+
+ID: 3024
+Degree: 21
+CIvalue: 2820
+
+ID: 18701
+Degree: 17
+CIvalue: 2816
+
+ID: 33302
+Degree: 22
+CIvalue: 2814
+
+ID: 98645
+Degree: 21
+CIvalue: 2800
+
+ID: 12344
+Degree: 32
+CIvalue: 2790
+
+ID: 31508
+Degree: 33
+CIvalue: 2784
+
+ID: 26307
+Degree: 59
+CIvalue: 2784
+
+ID: 2746
+Degree: 16
+CIvalue: 2775
+
+ID: 1459
+Degree: 72
+CIvalue: 2769
+
+ID: 114610
+Degree: 40
+CIvalue: 2769
+
+ID: 17884
+Degree: 27
+CIvalue: 2756
+
+ID: 128382
+Degree: 33
+CIvalue: 2752
+
+ID: 53449
+Degree: 15
+CIvalue: 2744
+
+ID: 33651
+Degree: 34
+CIvalue: 2739
+
+ID: 36224
+Degree: 35
+CIvalue: 2720
+
+ID: 42179
+Degree: 21
+CIvalue: 2720
+
+ID: 22734
+Degree: 29
+CIvalue: 2716
+
+ID: 27145
+Degree: 25
+CIvalue: 2712
+
+ID: 7951
+Degree: 25
+CIvalue: 2712
+
+ID: 2372
+Degree: 23
+CIvalue: 2706
+
+ID: 81181
+Degree: 17
+CIvalue: 2704
+
+ID: 18309
+Degree: 14
+CIvalue: 2691
+
+ID: 4427
+Degree: 44
+CIvalue: 2666
+
+ID: 21351
+Degree: 23
+CIvalue: 2662
+
+ID: 7117
+Degree: 17
+CIvalue: 2656
+
+ID: 39071
+Degree: 14
+CIvalue: 2652
+
+ID: 102472
+Degree: 18
+CIvalue: 2652
+
+ID: 56756
+Degree: 32
+CIvalue: 2635
+
+ID: 134304
+Degree: 29
+CIvalue: 2632
+
+ID: 53258
+Degree: 62
+CIvalue: 2623
+
+ID: 118174
+Degree: 43
+CIvalue: 2604
+
+ID: 22004
+Degree: 24
+CIvalue: 2599
+
+ID: 7898
+Degree: 73
+CIvalue: 2592
+
+ID: 20287
+Degree: 25
+CIvalue: 2592
+
+ID: 106758
+Degree: 39
+CIvalue: 2584
+
+ID: 67721
+Degree: 24
+CIvalue: 2576
+
+ID: 158358
+Degree: 20
+CIvalue: 2565
+
+ID: 132002
+Degree: 22
+CIvalue: 2562
+
+ID: 28115
+Degree: 19
+CIvalue: 2556
+
+ID: 543
+Degree: 26
+CIvalue: 2550
+
+ID: 33313
+Degree: 29
+CIvalue: 2548
+
+ID: 199877
+Degree: 48
+CIvalue: 2538
+
+ID: 70958
+Degree: 40
+CIvalue: 2535
+
+ID: 5281
+Degree: 18
+CIvalue: 2533
+
+ID: 65709
+Degree: 20
+CIvalue: 2527
+
+ID: 104791
+Degree: 26
+CIvalue: 2525
+
+ID: 26684
+Degree: 16
+CIvalue: 2520
+
+ID: 104320
+Degree: 22
+CIvalue: 2520
+
+ID: 39422
+Degree: 16
+CIvalue: 2520
+
+ID: 33485
+Degree: 45
+CIvalue: 2508
+
+ID: 983
+Degree: 45
+CIvalue: 2508
+
+ID: 30973
+Degree: 45
+CIvalue: 2508
+
+ID: 55539
+Degree: 16
+CIvalue: 2505
+
+ID: 65552
+Degree: 16
+CIvalue: 2505
+
+ID: 68
+Degree: 19
+CIvalue: 2484
+
+ID: 74315
+Degree: 19
+CIvalue: 2484
+
+ID: 4364
+Degree: 45
+CIvalue: 2464
+
+ID: 14727
+Degree: 16
+CIvalue: 2460
+
+ID: 9903
+Degree: 22
+CIvalue: 2457
+
+ID: 69253
+Degree: 38
+CIvalue: 2442
+
+ID: 28980
+Degree: 21
+CIvalue: 2440
+
+ID: 8468
+Degree: 33
+CIvalue: 2432
+
+ID: 109401
+Degree: 35
+CIvalue: 2414
+
+ID: 24751
+Degree: 19
+CIvalue: 2412
+
+ID: 34
+Degree: 29
+CIvalue: 2408
+
+ID: 6711
+Degree: 21
+CIvalue: 2400
+
+ID: 31681
+Degree: 20
+CIvalue: 2394
+
+ID: 3482
+Degree: 39
+CIvalue: 2394
+
+ID: 4537
+Degree: 22
+CIvalue: 2394
+
+ID: 40254
+Degree: 39
+CIvalue: 2394
+
+ID: 2895
+Degree: 16
+CIvalue: 2385
+
+ID: 2221
+Degree: 29
+CIvalue: 2380
+
+ID: 901
+Degree: 29
+CIvalue: 2380
+
+ID: 598
+Degree: 42
+CIvalue: 2378
+
+ID: 17871
+Degree: 34
+CIvalue: 2376
+
+ID: 14146
+Degree: 22
+CIvalue: 2373
+
+ID: 50325
+Degree: 18
+CIvalue: 2363
+
+ID: 54207
+Degree: 99
+CIvalue: 2352
+
+ID: 506
+Degree: 21
+CIvalue: 2340
+
+ID: 19609
+Degree: 22
+CIvalue: 2331
+
+ID: 20718
+Degree: 17
+CIvalue: 2320
+
+ID: 57469
+Degree: 23
+CIvalue: 2310
+
+ID: 6607
+Degree: 23
+CIvalue: 2310
+
+ID: 6618
+Degree: 19
+CIvalue: 2304
+
+ID: 2697
+Degree: 28
+CIvalue: 2295
+
+ID: 56453
+Degree: 28
+CIvalue: 2268
+
+ID: 3453
+Degree: 18
+CIvalue: 2261
+
+ID: 42208
+Degree: 18
+CIvalue: 2244
+
+ID: 326
+Degree: 39
+CIvalue: 2242
+
+ID: 1912
+Degree: 15
+CIvalue: 2240
+
+ID: 24873
+Degree: 26
+CIvalue: 2225
+
+ID: 72217
+Degree: 14
+CIvalue: 2223
+
+ID: 34324
+Degree: 20
+CIvalue: 2204
+
+ID: 157551
+Degree: 24
+CIvalue: 2185
+
+ID: 50250
+Degree: 17
+CIvalue: 2176
+
+ID: 13127
+Degree: 17
+CIvalue: 2176
+
+ID: 121414
+Degree: 20
+CIvalue: 2166
+
+ID: 80868
+Degree: 20
+CIvalue: 2166
+
+ID: 71549
+Degree: 19
+CIvalue: 2160
+
+ID: 36982
+Degree: 20
+CIvalue: 2147
+
+ID: 79577
+Degree: 34
+CIvalue: 2145
+
+ID: 60627
+Degree: 35
+CIvalue: 2142
+
+ID: 57452
+Degree: 18
+CIvalue: 2142
+
+ID: 30075
+Degree: 13
+CIvalue: 2136
+
+ID: 38046
+Degree: 25
+CIvalue: 2136
+
+ID: 4986
+Degree: 80
+CIvalue: 2133
+
+ID: 8395
+Degree: 19
+CIvalue: 2124
+
+ID: 10710
+Degree: 47
+CIvalue: 2116
+
+ID: 57159
+Degree: 97
+CIvalue: 2112
+
+ID: 177431
+Degree: 19
+CIvalue: 2106
+
+ID: 15458
+Degree: 24
+CIvalue: 2093
+
+ID: 57490
+Degree: 15
+CIvalue: 2086
+
+ID: 51702
+Degree: 27
+CIvalue: 2080
+
+ID: 1251
+Degree: 21
+CIvalue: 2080
+
+ID: 32445
+Degree: 22
+CIvalue: 2079
+
+ID: 92
+Degree: 62
+CIvalue: 2074
+
+ID: 4098
+Degree: 29
+CIvalue: 2072
+
+ID: 53806
+Degree: 15
+CIvalue: 2072
+
+ID: 36304
+Degree: 19
+CIvalue: 2070
+
+ID: 57916
+Degree: 45
+CIvalue: 2068
+
+ID: 80257
+Degree: 45
+CIvalue: 2068
+
+ID: 8209
+Degree: 21
+CIvalue: 2060
+
+ID: 73337
+Degree: 28
+CIvalue: 2052
+
+ID: 54796
+Degree: 55
+CIvalue: 2052
+
+ID: 959
+Degree: 19
+CIvalue: 2052
+
+ID: 16690
+Degree: 16
+CIvalue: 2040
+
+ID: 93502
+Degree: 31
+CIvalue: 2040
+
+ID: 9941
+Degree: 17
+CIvalue: 2032
+
+ID: 9863
+Degree: 15
+CIvalue: 2030
+
+ID: 69970
+Degree: 15
+CIvalue: 2030
+
+ID: 17045
+Degree: 27
+CIvalue: 2028
+
+ID: 10638
+Degree: 19
+CIvalue: 2016
+
+ID: 93965
+Degree: 16
+CIvalue: 2010
+
+ID: 12466
+Degree: 18
+CIvalue: 2006
+
+ID: 23743
+Degree: 24
+CIvalue: 2001
+
+ID: 15039
+Degree: 28
+CIvalue: 1998
+
+ID: 34226
+Degree: 29
+CIvalue: 1988
+
+ID: 240450
+Degree: 29
+CIvalue: 1988
+
+ID: 57269
+Degree: 18
+CIvalue: 1972
+
+ID: 7284
+Degree: 20
+CIvalue: 1957
+
+ID: 22806
+Degree: 24
+CIvalue: 1955
+
+ID: 3227
+Degree: 30
+CIvalue: 1943
+
+ID: 30714
+Degree: 21
+CIvalue: 1940
+
+ID: 20295
+Degree: 16
+CIvalue: 1935
+
+ID: 143550
+Degree: 22
+CIvalue: 1932
+
+ID: 74920
+Degree: 24
+CIvalue: 1932
+
+ID: 52512
+Degree: 43
+CIvalue: 1932
+
+ID: 20982
+Degree: 47
+CIvalue: 1932
+
+ID: 84134
+Degree: 28
+CIvalue: 1917
+
+ID: 17863
+Degree: 28
+CIvalue: 1917
+
+ID: 38164
+Degree: 34
+CIvalue: 1914
+
+ID: 6694
+Degree: 23
+CIvalue: 1914
+
+ID: 52329
+Degree: 15
+CIvalue: 1904
+
+ID: 13920
+Degree: 21
+CIvalue: 1900
+
+ID: 7568
+Degree: 28
+CIvalue: 1890
+
+ID: 272834
+Degree: 64
+CIvalue: 1890
+
+ID: 9101
+Degree: 28
+CIvalue: 1890
+
+ID: 5478
+Degree: 30
+CIvalue: 1885
+
+ID: 44019
+Degree: 15
+CIvalue: 1876
+
+ID: 919
+Degree: 26
+CIvalue: 1875
+
+ID: 50910
+Degree: 10
+CIvalue: 1872
+
+ID: 106658
+Degree: 23
+CIvalue: 1870
+
+ID: 6761
+Degree: 21
+CIvalue: 1860
+
+ID: 50249
+Degree: 12
+CIvalue: 1859
+
+ID: 84219
+Degree: 19
+CIvalue: 1854
+
+ID: 2517
+Degree: 19
+CIvalue: 1854
+
+ID: 13233
+Degree: 29
+CIvalue: 1848
+
+ID: 54060
+Degree: 16
+CIvalue: 1845
+
+ID: 31671
+Degree: 16
+CIvalue: 1845
+
+ID: 40612
+Degree: 21
+CIvalue: 1840
+
+ID: 37134
+Degree: 60
+CIvalue: 1829
+
+ID: 35369
+Degree: 22
+CIvalue: 1827
+
+ID: 50305
+Degree: 13
+CIvalue: 1824
+
+ID: 53285
+Degree: 21
+CIvalue: 1820
+
+ID: 137039
+Degree: 16
+CIvalue: 1815
+
+ID: 9906
+Degree: 23
+CIvalue: 1804
+
+ID: 11329
+Degree: 46
+CIvalue: 1800
+
+ID: 11152
+Degree: 47
+CIvalue: 1794
+
+ID: 129441
+Degree: 17
+CIvalue: 1776
+
+ID: 55185
+Degree: 24
+CIvalue: 1771
+
+ID: 39522
+Degree: 14
+CIvalue: 1768
+
+ID: 134837
+Degree: 53
+CIvalue: 1768
+
+ID: 57279
+Degree: 18
+CIvalue: 1751
+
+ID: 18231
+Degree: 34
+CIvalue: 1749
+
+ID: 50294
+Degree: 17
+CIvalue: 1744
+
+ID: 47518
+Degree: 23
+CIvalue: 1738
+
+ID: 43725
+Degree: 24
+CIvalue: 1725
+
+ID: 3830
+Degree: 15
+CIvalue: 1722
+
+ID: 37510
+Degree: 18
+CIvalue: 1717
+
+ID: 13778
+Degree: 23
+CIvalue: 1716
+
+ID: 153995
+Degree: 36
+CIvalue: 1715
+
+ID: 34798
+Degree: 16
+CIvalue: 1710
+
+ID: 7594
+Degree: 19
+CIvalue: 1710
+
+ID: 27982
+Degree: 24
+CIvalue: 1702
+
+ID: 91430
+Degree: 17
+CIvalue: 1696
+
+ID: 2915
+Degree: 16
+CIvalue: 1695
+
+ID: 159353
+Degree: 12
+CIvalue: 1694
+
+ID: 5192
+Degree: 13
+CIvalue: 1692
+
+ID: 35216
+Degree: 21
+CIvalue: 1680
+
+ID: 4907
+Degree: 22
+CIvalue: 1680
+
+ID: 2849
+Degree: 15
+CIvalue: 1680
+
+ID: 19426
+Degree: 22
+CIvalue: 1680
+
+ID: 125593
+Degree: 13
+CIvalue: 1668
+
+ID: 4564
+Degree: 15
+CIvalue: 1666
+
+ID: 9351
+Degree: 21
+CIvalue: 1660
+
+ID: 24539
+Degree: 19
+CIvalue: 1656
+
+ID: 198079
+Degree: 25
+CIvalue: 1656
+
+ID: 33569
+Degree: 15
+CIvalue: 1652
+
+ID: 86813
+Degree: 23
+CIvalue: 1650
+
+ID: 13878
+Degree: 16
+CIvalue: 1650
+
+ID: 4322
+Degree: 14
+CIvalue: 1638
+
+ID: 43720
+Degree: 24
+CIvalue: 1633
+
+ID: 2676
+Degree: 35
+CIvalue: 1632
+
+ID: 32219
+Degree: 12
+CIvalue: 1628
+
+ID: 11710
+Degree: 61
+CIvalue: 1620
+
+ID: 29259
+Degree: 20
+CIvalue: 1615
+
+ID: 15227
+Degree: 17
+CIvalue: 1600
+
+ID: 264996
+Degree: 21
+CIvalue: 1600
+
+ID: 20246
+Degree: 42
+CIvalue: 1599
+
+ID: 70080
+Degree: 20
+CIvalue: 1596
+
+ID: 79724
+Degree: 24
+CIvalue: 1587
+
+ID: 6408
+Degree: 19
+CIvalue: 1584
+
+ID: 49408
+Degree: 25
+CIvalue: 1584
+
+ID: 14589
+Degree: 21
+CIvalue: 1580
+
+ID: 9481
+Degree: 21
+CIvalue: 1580
+
+ID: 23159
+Degree: 14
+CIvalue: 1573
+
+ID: 106951
+Degree: 15
+CIvalue: 1568
+
+ID: 33070
+Degree: 12
+CIvalue: 1562
+
+ID: 48300
+Degree: 11
+CIvalue: 1560
+
+ID: 49180
+Degree: 20
+CIvalue: 1558
+
+ID: 53831
+Degree: 22
+CIvalue: 1554
+
+ID: 4344
+Degree: 22
+CIvalue: 1554
+
+ID: 50285
+Degree: 18
+CIvalue: 1547
+
+ID: 96530
+Degree: 18
+CIvalue: 1547
+
+ID: 314
+Degree: 36
+CIvalue: 1540
+
+ID: 43709
+Degree: 20
+CIvalue: 1539
+
+ID: 60686
+Degree: 91
+CIvalue: 1530
+
+ID: 117424
+Degree: 18
+CIvalue: 1530
+
+ID: 2925
+Degree: 10
+CIvalue: 1521
+
+ID: 14919
+Degree: 14
+CIvalue: 1521
+
+ID: 822
+Degree: 20
+CIvalue: 1520
+
+ID: 27184
+Degree: 38
+CIvalue: 1517
+
+ID: 157348
+Degree: 22
+CIvalue: 1512
+
+ID: 252833
+Degree: 21
+CIvalue: 1500
+
+ID: 12999
+Degree: 26
+CIvalue: 1500
+
+ID: 105460
+Degree: 26
+CIvalue: 1500
+
+ID: 46192
+Degree: 31
+CIvalue: 1500
+
+ID: 63223
+Degree: 14
+CIvalue: 1495
+
+ID: 7845
+Degree: 12
+CIvalue: 1485
+
+ID: 33386
+Degree: 34
+CIvalue: 1485
+
+ID: 143104
+Degree: 14
+CIvalue: 1482
+
+ID: 2349
+Degree: 52
+CIvalue: 1479
+
+ID: 40293
+Degree: 22
+CIvalue: 1470
+
+ID: 4363
+Degree: 15
+CIvalue: 1470
+
+ID: 23752
+Degree: 18
+CIvalue: 1462
+
+ID: 47470
+Degree: 21
+CIvalue: 1460
+
+ID: 431
+Degree: 22
+CIvalue: 1449
+
+ID: 865
+Degree: 20
+CIvalue: 1444
+
+ID: 47608
+Degree: 40
+CIvalue: 1443
+
+ID: 68266
+Degree: 14
+CIvalue: 1443
+
+ID: 30486
+Degree: 17
+CIvalue: 1440
+
+ID: 276767
+Degree: 23
+CIvalue: 1430
+
+ID: 22740
+Degree: 23
+CIvalue: 1430
+
+ID: 65536
+Degree: 69
+CIvalue: 1428
+
+ID: 40185
+Degree: 13
+CIvalue: 1428
+
+ID: 3141
+Degree: 16
+CIvalue: 1425
+
+ID: 31955
+Degree: 20
+CIvalue: 1425
+
+ID: 123162
+Degree: 19
+CIvalue: 1422
+
+ID: 18575
+Degree: 19
+CIvalue: 1422
+
+ID: 59186
+Degree: 19
+CIvalue: 1422
+
+ID: 11597
+Degree: 14
+CIvalue: 1417
+
+ID: 2164
+Degree: 25
+CIvalue: 1416
+
+ID: 104904
+Degree: 18
+CIvalue: 1411
+
+ID: 103862
+Degree: 48
+CIvalue: 1410
+
+ID: 16570
+Degree: 29
+CIvalue: 1400
+
+ID: 13660
+Degree: 16
+CIvalue: 1395
+
+ID: 56733
+Degree: 16
+CIvalue: 1395
+
+ID: 46947
+Degree: 49
+CIvalue: 1392
+
+ID: 61138
+Degree: 17
+CIvalue: 1392
+
+ID: 22775
+Degree: 17
+CIvalue: 1392
+
+ID: 69779
+Degree: 49
+CIvalue: 1392
+
+ID: 32274
+Degree: 19
+CIvalue: 1386
+
+ID: 34262
+Degree: 12
+CIvalue: 1386
+
+ID: 8855
+Degree: 13
+CIvalue: 1380
+
+ID: 67681
+Degree: 27
+CIvalue: 1378
+
+ID: 4460
+Degree: 18
+CIvalue: 1377
+
+ID: 5590
+Degree: 18
+CIvalue: 1377
+
+ID: 1285
+Degree: 52
+CIvalue: 1377
+
+ID: 14578
+Degree: 26
+CIvalue: 1375
+
+ID: 68474
+Degree: 15
+CIvalue: 1372
+
+ID: 116494
+Degree: 11
+CIvalue: 1370
+
+ID: 371139
+Degree: 13
+CIvalue: 1368
+
+ID: 55239
+Degree: 19
+CIvalue: 1368
+
+ID: 3319
+Degree: 25
+CIvalue: 1368
+
+ID: 81427
+Degree: 12
+CIvalue: 1364
+
+ID: 57161
+Degree: 41
+CIvalue: 1360
+
+ID: 73934
+Degree: 14
+CIvalue: 1352
+
+ID: 38815
+Degree: 14
+CIvalue: 1352
+
+ID: 57024
+Degree: 46
+CIvalue: 1350
+
+ID: 38673
+Degree: 20
+CIvalue: 1349
+
+ID: 3650
+Degree: 9
+CIvalue: 1344
+
+ID: 26551
+Degree: 18
+CIvalue: 1343
+
+ID: 33488
+Degree: 32
+CIvalue: 1333
+
+ID: 16333
+Degree: 13
+CIvalue: 1332
+
+ID: 79232
+Degree: 19
+CIvalue: 1314
+
+ID: 106574
+Degree: 17
+CIvalue: 1312
+
+ID: 59008
+Degree: 33
+CIvalue: 1312
+
+ID: 26550
+Degree: 78
+CIvalue: 1309
+
+ID: 18827
+Degree: 22
+CIvalue: 1302
+
+ID: 46328
+Degree: 15
+CIvalue: 1302
+
+ID: 53800
+Degree: 14
+CIvalue: 1300
+
+ID: 38133
+Degree: 26
+CIvalue: 1300
+
+ID: 53817
+Degree: 26
+CIvalue: 1300
+
+ID: 10925
+Degree: 19
+CIvalue: 1296
+
+ID: 73939
+Degree: 16
+CIvalue: 1290
+
+ID: 9991
+Degree: 15
+CIvalue: 1288
+
+ID: 37559
+Degree: 33
+CIvalue: 1280
+
+ID: 25007
+Degree: 41
+CIvalue: 1280
+
+ID: 43701
+Degree: 26
+CIvalue: 1275
+
+ID: 11854
+Degree: 32
+CIvalue: 1271
+
+ID: 6136
+Degree: 14
+CIvalue: 1261
+
+ID: 13076
+Degree: 14
+CIvalue: 1261
+
+ID: 22799
+Degree: 21
+CIvalue: 1260
+
+ID: 38445
+Degree: 43
+CIvalue: 1260
+
+ID: 7423
+Degree: 29
+CIvalue: 1260
+
+ID: 25388
+Degree: 18
+CIvalue: 1258
+
+ID: 96730
+Degree: 25
+CIvalue: 1248
+
+ID: 71591
+Degree: 12
+CIvalue: 1243
+
+ID: 810
+Degree: 21
+CIvalue: 1240
+
+ID: 23666
+Degree: 66
+CIvalue: 1235
+
+ID: 8425
+Degree: 16
+CIvalue: 1230
+
+ID: 4350
+Degree: 14
+CIvalue: 1222
+
+ID: 42510
+Degree: 24
+CIvalue: 1219
+
+ID: 8938
+Degree: 9
+CIvalue: 1216
+
+ID: 64722
+Degree: 14
+CIvalue: 1209
+
+ID: 43723
+Degree: 14
+CIvalue: 1209
+
+ID: 7505
+Degree: 32
+CIvalue: 1209
+
+ID: 49577
+Degree: 18
+CIvalue: 1207
+
+ID: 65644
+Degree: 19
+CIvalue: 1206
+
+ID: 223200
+Degree: 31
+CIvalue: 1200
+
+ID: 25312
+Degree: 13
+CIvalue: 1200
+
+ID: 77616
+Degree: 20
+CIvalue: 1197
+
+ID: 31966
+Degree: 15
+CIvalue: 1190
+
+ID: 45395
+Degree: 12
+CIvalue: 1188
+
+ID: 22627
+Degree: 28
+CIvalue: 1188
+
+ID: 186273
+Degree: 21
+CIvalue: 1180
+
+ID: 147178
+Degree: 39
+CIvalue: 1178
+
+ID: 28174
+Degree: 29
+CIvalue: 1176
+
+ID: 1348
+Degree: 22
+CIvalue: 1176
+
+ID: 60818
+Degree: 12
+CIvalue: 1166
+
+ID: 5566
+Degree: 12
+CIvalue: 1166
+
+ID: 52551
+Degree: 13
+CIvalue: 1164
+
+ID: 22408
+Degree: 21
+CIvalue: 1160
+
+ID: 81756
+Degree: 22
+CIvalue: 1155
+
+ID: 61101
+Degree: 36
+CIvalue: 1155
+
+ID: 62195
+Degree: 12
+CIvalue: 1155
+
+ID: 3277
+Degree: 13
+CIvalue: 1152
+
+ID: 76
+Degree: 17
+CIvalue: 1152
+
+ID: 20988
+Degree: 25
+CIvalue: 1152
+
+ID: 7411
+Degree: 13
+CIvalue: 1152
+
+ID: 12780
+Degree: 13
+CIvalue: 1152
+
+ID: 20111
+Degree: 24
+CIvalue: 1150
+
+ID: 40312
+Degree: 14
+CIvalue: 1144
+
+ID: 18669
+Degree: 14
+CIvalue: 1144
+
+ID: 68131
+Degree: 12
+CIvalue: 1144
+
+ID: 114163
+Degree: 10
+CIvalue: 1143
+
+ID: 49011
+Degree: 13
+CIvalue: 1140
+
+ID: 3343
+Degree: 21
+CIvalue: 1140
+
+ID: 307
+Degree: 14
+CIvalue: 1131
+
+ID: 16216
+Degree: 24
+CIvalue: 1127
+
+ID: 4624
+Degree: 26
+CIvalue: 1125
+
+ID: 16304
+Degree: 16
+CIvalue: 1125
+
+ID: 37009
+Degree: 23
+CIvalue: 1122
+
+ID: 24007
+Degree: 23
+CIvalue: 1122
+
+ID: 100924
+Degree: 15
+CIvalue: 1120
+
+ID: 213472
+Degree: 11
+CIvalue: 1120
+
+ID: 25068
+Degree: 21
+CIvalue: 1120
+
+ID: 38622
+Degree: 11
+CIvalue: 1120
+
+ID: 6093
+Degree: 22
+CIvalue: 1113
+
+ID: 4751
+Degree: 22
+CIvalue: 1113
+
+ID: 132585
+Degree: 15
+CIvalue: 1106
+
+ID: 43952
+Degree: 18
+CIvalue: 1105
+
+ID: 70011
+Degree: 13
+CIvalue: 1104
+
+ID: 77241
+Degree: 13
+CIvalue: 1092
+
+ID: 109178
+Degree: 22
+CIvalue: 1092
+
+ID: 108925
+Degree: 11
+CIvalue: 1080
+
+ID: 49695
+Degree: 16
+CIvalue: 1080
+
+ID: 170862
+Degree: 12
+CIvalue: 1078
+
+ID: 6089
+Degree: 23
+CIvalue: 1078
+
+ID: 222
+Degree: 26
+CIvalue: 1075
+
+ID: 6961
+Degree: 154
+CIvalue: 1071
+
+ID: 23037
+Degree: 64
+CIvalue: 1071
+
+ID: 79423
+Degree: 22
+CIvalue: 1071
+
+ID: 7790
+Degree: 13
+CIvalue: 1068
+
+ID: 69720
+Degree: 16
+CIvalue: 1065
+
+ID: 124861
+Degree: 20
+CIvalue: 1064
+
+ID: 5143
+Degree: 11
+CIvalue: 1060
+
+ID: 6648
+Degree: 15
+CIvalue: 1050
+
+ID: 44069
+Degree: 12
+CIvalue: 1045
+
+ID: 48070
+Degree: 30
+CIvalue: 1044
+
+ID: 100921
+Degree: 11
+CIvalue: 1040
+
+ID: 18104
+Degree: 21
+CIvalue: 1040
+
+ID: 14728
+Degree: 17
+CIvalue: 1040
+
+ID: 195048
+Degree: 15
+CIvalue: 1036
+
+ID: 16607
+Degree: 23
+CIvalue: 1034
+
+ID: 143185
+Degree: 23
+CIvalue: 1034
+
+ID: 51886
+Degree: 14
+CIvalue: 1027
+
+ID: 16178
+Degree: 14
+CIvalue: 1027
+
+ID: 24703
+Degree: 26
+CIvalue: 1025
+
+ID: 28996
+Degree: 17
+CIvalue: 1024
+
+ID: 2378
+Degree: 16
+CIvalue: 1020
+
+ID: 718
+Degree: 31
+CIvalue: 1020
+
+ID: 101718
+Degree: 13
+CIvalue: 1020
+
+ID: 5813
+Degree: 30
+CIvalue: 1015
+
+ID: 64313
+Degree: 24
+CIvalue: 1012
+
+ID: 11621
+Degree: 45
+CIvalue: 1012
+
+ID: 7599
+Degree: 25
+CIvalue: 1008
+
+ID: 92785
+Degree: 17
+CIvalue: 1008
+
+ID: 20293
+Degree: 17
+CIvalue: 1008
+
+ID: 34227
+Degree: 25
+CIvalue: 1008
+
+ID: 27036
+Degree: 15
+CIvalue: 1008
+
+ID: 1854
+Degree: 20
+CIvalue: 1007
+
+ID: 14621
+Degree: 31
+CIvalue: 990
+
+ID: 73638
+Degree: 24
+CIvalue: 989
+
+ID: 63667
+Degree: 14
+CIvalue: 988
+
+ID: 75448
+Degree: 18
+CIvalue: 986
+
+ID: 107918
+Degree: 18
+CIvalue: 986
+
+ID: 9149
+Degree: 12
+CIvalue: 979
+
+ID: 89515
+Degree: 17
+CIvalue: 976
+
+ID: 4570
+Degree: 14
+CIvalue: 975
+
+ID: 11362
+Degree: 14
+CIvalue: 975
+
+ID: 20367
+Degree: 13
+CIvalue: 972
+
+ID: 40275
+Degree: 18
+CIvalue: 969
+
+ID: 49464
+Degree: 20
+CIvalue: 969
+
+ID: 971
+Degree: 21
+CIvalue: 960
+
+ID: 4898
+Degree: 16
+CIvalue: 960
+
+ID: 88804
+Degree: 49
+CIvalue: 960
+
+ID: 8732
+Degree: 25
+CIvalue: 960
+
+ID: 61130
+Degree: 10
+CIvalue: 954
+
+ID: 182011
+Degree: 10
+CIvalue: 954
+
+ID: 8381
+Degree: 19
+CIvalue: 954
+
+ID: 49440
+Degree: 18
+CIvalue: 952
+
+ID: 252174
+Degree: 23
+CIvalue: 946
+
+ID: 188831
+Degree: 21
+CIvalue: 940
+
+ID: 69644
+Degree: 21
+CIvalue: 940
+
+ID: 50308
+Degree: 15
+CIvalue: 938
+
+ID: 13136
+Degree: 9
+CIvalue: 936
+
+ID: 47499
+Degree: 14
+CIvalue: 936
+
+ID: 8306
+Degree: 13
+CIvalue: 936
+
+ID: 35109
+Degree: 14
+CIvalue: 936
+
+ID: 67191
+Degree: 12
+CIvalue: 935
+
+ID: 20348
+Degree: 11
+CIvalue: 930
+
+ID: 38448
+Degree: 30
+CIvalue: 928
+
+ID: 65008
+Degree: 17
+CIvalue: 928
+
+ID: 303205
+Degree: 29
+CIvalue: 924
+
+ID: 49007
+Degree: 12
+CIvalue: 924
+
+ID: 39074
+Degree: 13
+CIvalue: 924
+
+ID: 30857
+Degree: 23
+CIvalue: 924
+
+ID: 13137
+Degree: 24
+CIvalue: 920
+
+ID: 17527
+Degree: 16
+CIvalue: 915
+
+ID: 43742
+Degree: 17
+CIvalue: 912
+
+ID: 42178
+Degree: 13
+CIvalue: 912
+
+ID: 62906
+Degree: 14
+CIvalue: 910
+
+ID: 119333
+Degree: 22
+CIvalue: 903
+
+ID: 44736
+Degree: 13
+CIvalue: 900
+
+ID: 94713
+Degree: 13
+CIvalue: 900
+
+ID: 1665
+Degree: 16
+CIvalue: 900
+
+ID: 20056
+Degree: 46
+CIvalue: 900
+
+ID: 176994
+Degree: 16
+CIvalue: 900
+
+ID: 44371
+Degree: 30
+CIvalue: 899
+
+ID: 166095
+Degree: 14
+CIvalue: 897
+
+ID: 5464
+Degree: 24
+CIvalue: 897
+
+ID: 12899
+Degree: 9
+CIvalue: 896
+
+ID: 178192
+Degree: 20
+CIvalue: 893
+
+ID: 66495
+Degree: 13
+CIvalue: 888
+
+ID: 31288
+Degree: 15
+CIvalue: 882
+
+ID: 6652
+Degree: 10
+CIvalue: 882
+
+ID: 9475
+Degree: 19
+CIvalue: 882
+
+ID: 43677
+Degree: 23
+CIvalue: 880
+
+ID: 55242
+Degree: 12
+CIvalue: 880
+
+ID: 16225
+Degree: 59
+CIvalue: 870
+
+ID: 7801
+Degree: 11
+CIvalue: 870
+
+ID: 66279
+Degree: 12
+CIvalue: 869
+
+ID: 116924
+Degree: 63
+CIvalue: 868
+
+ID: 39016
+Degree: 32
+CIvalue: 868
+
+ID: 174836
+Degree: 49
+CIvalue: 864
+
+ID: 21686
+Degree: 17
+CIvalue: 864
+
+ID: 1431
+Degree: 22
+CIvalue: 861
+
+ID: 64789
+Degree: 21
+CIvalue: 860
+
+ID: 17468
+Degree: 15
+CIvalue: 854
+
+ID: 9858
+Degree: 13
+CIvalue: 852
+
+ID: 79105
+Degree: 11
+CIvalue: 850
+
+ID: 6661
+Degree: 11
+CIvalue: 850
+
+ID: 20322
+Degree: 15
+CIvalue: 840
+
+ID: 34796
+Degree: 15
+CIvalue: 840
+
+ID: 34179
+Degree: 27
+CIvalue: 832
+
+ID: 69238
+Degree: 19
+CIvalue: 828
+
+ID: 5282
+Degree: 24
+CIvalue: 828
+
+ID: 13584
+Degree: 15
+CIvalue: 826
+
+ID: 35372
+Degree: 16
+CIvalue: 825
+
+ID: 50595
+Degree: 10
+CIvalue: 819
+
+ID: 49701
+Degree: 20
+CIvalue: 817
+
+ID: 75721
+Degree: 52
+CIvalue: 816
+
+ID: 86372
+Degree: 13
+CIvalue: 816
+
+ID: 15407
+Degree: 23
+CIvalue: 814
+
+ID: 10685
+Degree: 19
+CIvalue: 810
+
+ID: 91040
+Degree: 31
+CIvalue: 810
+
+ID: 244255
+Degree: 16
+CIvalue: 810
+
+ID: 259849
+Degree: 11
+CIvalue: 810
+
+ID: 121217
+Degree: 13
+CIvalue: 804
+
+ID: 33642
+Degree: 12
+CIvalue: 803
+
+ID: 50947
+Degree: 11
+CIvalue: 800
+
+ID: 26289
+Degree: 11
+CIvalue: 800
+
+ID: 20096
+Degree: 26
+CIvalue: 800
+
+ID: 68277
+Degree: 22
+CIvalue: 798
+
+ID: 9868
+Degree: 16
+CIvalue: 795
+
+ID: 14603
+Degree: 13
+CIvalue: 792
+
+ID: 4976
+Degree: 13
+CIvalue: 792
+
+ID: 40366
+Degree: 17
+CIvalue: 784
+
+ID: 7585
+Degree: 35
+CIvalue: 782
+
+ID: 192273
+Degree: 47
+CIvalue: 782
+
+ID: 30069
+Degree: 12
+CIvalue: 781
+
+ID: 5980
+Degree: 16
+CIvalue: 780
+
+ID: 44863
+Degree: 21
+CIvalue: 780
+
+ID: 20733
+Degree: 13
+CIvalue: 780
+
+ID: 54021
+Degree: 21
+CIvalue: 780
+
+ID: 24750
+Degree: 40
+CIvalue: 780
+
+ID: 95890
+Degree: 23
+CIvalue: 770
+
+ID: 122030
+Degree: 17
+CIvalue: 768
+
+ID: 31234
+Degree: 17
+CIvalue: 768
+
+ID: 37562
+Degree: 17
+CIvalue: 768
+
+ID: 5489
+Degree: 13
+CIvalue: 768
+
+ID: 9352
+Degree: 17
+CIvalue: 768
+
+ID: 461
+Degree: 16
+CIvalue: 765
+
+ID: 28707
+Degree: 21
+CIvalue: 760
+
+ID: 68317
+Degree: 20
+CIvalue: 760
+
+ID: 13501
+Degree: 11
+CIvalue: 760
+
+ID: 74040
+Degree: 11
+CIvalue: 760
+
+ID: 60490
+Degree: 11
+CIvalue: 760
+
+ID: 47820
+Degree: 12
+CIvalue: 759
+
+ID: 89928
+Degree: 16
+CIvalue: 750
+
+ID: 16785
+Degree: 31
+CIvalue: 750
+
+ID: 58737
+Degree: 12
+CIvalue: 748
+
+ID: 96291
+Degree: 13
+CIvalue: 744
+
+ID: 32424
+Degree: 9
+CIvalue: 744
+
+ID: 49592
+Degree: 20
+CIvalue: 741
+
+ID: 23633
+Degree: 20
+CIvalue: 741
+
+ID: 120719
+Degree: 14
+CIvalue: 741
+
+ID: 2654
+Degree: 24
+CIvalue: 736
+
+ID: 23451
+Degree: 16
+CIvalue: 735
+
+ID: 14887
+Degree: 22
+CIvalue: 735
+
+ID: 104782
+Degree: 10
+CIvalue: 729
+
+ID: 31329
+Degree: 10
+CIvalue: 729
+
+ID: 58518
+Degree: 12
+CIvalue: 726
+
+ID: 273955
+Degree: 12
+CIvalue: 726
+
+ID: 18097
+Degree: 12
+CIvalue: 726
+
+ID: 178
+Degree: 30
+CIvalue: 725
+
+ID: 101854
+Degree: 39
+CIvalue: 722
+
+ID: 35141
+Degree: 20
+CIvalue: 722
+
+ID: 101502
+Degree: 20
+CIvalue: 722
+
+ID: 52959
+Degree: 17
+CIvalue: 720
+
+ID: 41812
+Degree: 19
+CIvalue: 720
+
+ID: 42914
+Degree: 13
+CIvalue: 720
+
+ID: 91546
+Degree: 14
+CIvalue: 715
+
+ID: 20192
+Degree: 22
+CIvalue: 714
+
+ID: 62072
+Degree: 18
+CIvalue: 714
+
+ID: 15310
+Degree: 13
+CIvalue: 708
+
+ID: 113223
+Degree: 16
+CIvalue: 705
+
+ID: 137321
+Degree: 89
+CIvalue: 704
+
+ID: 992
+Degree: 45
+CIvalue: 704
+
+ID: 19519
+Degree: 15
+CIvalue: 784
+
+ID: 63920
+Degree: 17
+CIvalue: 704
+
+ID: 41477
+Degree: 17
+CIvalue: 704
+
+ID: 140013
+Degree: 20
+CIvalue: 703
+
+ID: 24413
+Degree: 14
+CIvalue: 702
+
+ID: 29021
+Degree: 10
+CIvalue: 702
+
+ID: 57092
+Degree: 21
+CIvalue: 700
+
+ID: 10214
+Degree: 15
+CIvalue: 700
+
+ID: 5810
+Degree: 18
+CIvalue: 697
+
+ID: 8913
+Degree: 12
+CIvalue: 693
+
+ID: 33514
+Degree: 12
+CIvalue: 693
+
+ID: 3362
+Degree: 11
+CIvalue: 690
+
+ID: 439
+Degree: 16
+CIvalue: 690
+
+ID: 3924
+Degree: 24
+CIvalue: 690
+
+ID: 53842
+Degree: 14
+CIvalue: 689
+
+ID: 24220
+Degree: 17
+CIvalue: 688
+
+ID: 22629
+Degree: 10
+CIvalue: 684
+
+ID: 28641
+Degree: 13
+CIvalue: 684
+
+ID: 34801
+Degree: 39
+CIvalue: 684
+
+ID: 31602
+Degree: 23
+CIvalue: 682
+
+ID: 29027
+Degree: 23
+CIvalue: 682
+
+ID: 57257
+Degree: 16
+CIvalue: 675
+
+ID: 7313
+Degree: 29
+CIvalue: 672
+
+ID: 48680
+Degree: 12
+CIvalue: 671
+
+ID: 60525
+Degree: 24
+CIvalue: 667
+
+ID: 586
+Degree: 24
+CIvalue: 667
+
+ID: 3259
+Degree: 30
+CIvalue: 667
+
+ID: 51285
+Degree: 10
+CIvalue: 666
+
+ID: 29906
+Degree: 20
+CIvalue: 665
+
+ID: 116939
+Degree: 9
+CIvalue: 664
+
+ID: 206628
+Degree: 18
+CIvalue: 663
+
+ID: 61226
+Degree: 14
+CIvalue: 663
+
+ID: 16681
+Degree: 18
+CIvalue: 663
+
+ID: 52669
+Degree: 16
+CIvalue: 660
+
+ID: 84112
+Degree: 13
+CIvalue: 660
+
+ID: 31444
+Degree: 16
+CIvalue: 660
+
+ID: 59162
+Degree: 23
+CIvalue: 660
+
+ID: 94395
+Degree: 9
+CIvalue: 656
+
+ID: 16064
+Degree: 14
+CIvalue: 650
+
+ID: 87185
+Degree: 14
+CIvalue: 650
+
+ID: 31698
+Degree: 11
+CIvalue: 650
+
+ID: 32652
+Degree: 12
+CIvalue: 649
+
+ID: 28969
+Degree: 12
+CIvalue: 649
+
+ID: 28531
+Degree: 13
+CIvalue: 648
+
+ID: 308781
+Degree: 25
+CIvalue: 648
+
+ID: 92774
+Degree: 19
+CIvalue: 648
+
+ID: 12259
+Degree: 18
+CIvalue: 646
+
+ID: 60493
+Degree: 24
+CIvalue: 644
+
+ID: 38593
+Degree: 15
+CIvalue: 644
+
+ID: 28076
+Degree: 17
+CIvalue: 640
+
+ID: 50244
+Degree: 10
+CIvalue: 639
+
+ID: 22510
+Degree: 12
+CIvalue: 638
+
+ID: 515
+Degree: 30
+CIvalue: 638
+
+ID: 125087
+Degree: 14
+CIvalue: 637
+
+ID: 3836
+Degree: 14
+CIvalue: 637
+
+ID: 56038
+Degree: 19
+CIvalue: 630
+
+ID: 75780
+Degree: 36
+CIvalue: 630
+
+ID: 159515
+Degree: 19
+CIvalue: 630
+
+ID: 26668
+Degree: 15
+CIvalue: 630
+
+ID: 68282
+Degree: 20
+CIvalue: 627
+
+ID: 3398
+Degree: 27
+CIvalue: 624
+
+ID: 31936
+Degree: 14
+CIvalue: 624
+
+ID: 180135
+Degree: 21
+CIvalue: 620
+
+ID: 146284
+Degree: 21
+CIvalue: 620
+
+ID: 287256
+Degree: 23
+CIvalue: 616
+
+ID: 106089
+Degree: 16
+CIvalue: 615
+
+ID: 232850
+Degree: 10
+CIvalue: 612
+
+ID: 2907
+Degree: 14
+CIvalue: 611
+
+ID: 45082
+Degree: 11
+CIvalue: 610
+
+ID: 16174
+Degree: 22
+CIvalue: 609
+
+ID: 58210
+Degree: 17
+CIvalue: 608
+
+ID: 49124
+Degree: 9
+CIvalue: 608
+
+ID: 13122
+Degree: 17
+CIvalue: 608
+
+ID: 199696
+Degree: 6
+CIvalue: 605
+
+ID: 7219
+Degree: 12
+CIvalue: 605
+
+ID: 77276
+Degree: 12
+CIvalue: 605
+
+ID: 58032
+Degree: 10
+CIvalue: 603
+
+ID: 35068
+Degree: 11
+CIvalue: 600
+
+ID: 25339
+Degree: 16
+CIvalue: 600
+
+ID: 1995
+Degree: 21
+CIvalue: 600
+
+ID: 13117
+Degree: 9
+CIvalue: 600
+
+ID: 14543
+Degree: 13
+CIvalue: 600
+
+ID: 54094
+Degree: 14
+CIvalue: 598
+
+ID: 105416
+Degree: 8
+CIvalue: 595
+
+ID: 163
+Degree: 18
+CIvalue: 595
+
+ID: 30383
+Degree: 23
+CIvalue: 594
+
+ID: 56303
+Degree: 10
+CIvalue: 594
+
+ID: 20644
+Degree: 12
+CIvalue: 594
+
+ID: 57990
+Degree: 17
+CIvalue: 592
+
+ID: 134319
+Degree: 9
+CIvalue: 592
+
+ID: 27864
+Degree: 17
+CIvalue: 592
+
+ID: 44613
+Degree: 13
+CIvalue: 588
+
+ID: 287610
+Degree: 13
+CIvalue: 588
+
+ID: 2900
+Degree: 12
+CIvalue: 583
+
+ID: 51749
+Degree: 30
+CIvalue: 580
+
+ID: 65282
+Degree: 11
+CIvalue: 580
+
+ID: 56262
+Degree: 19
+CIvalue: 576
+
+ID: 12498
+Degree: 19
+CIvalue: 576
+
+ID: 27311
+Degree: 13
+CIvalue: 576
+
+ID: 80068
+Degree: 19
+CIvalue: 576
+
+ID: 28072
+Degree: 13
+CIvalue: 576
+
+ID: 703
+Degree: 25
+CIvalue: 576
+
+ID: 2521
+Degree: 26
+CIvalue: 575
+
+ID: 30569
+Degree: 15
+CIvalue: 574
+
+ID: 4974
+Degree: 15
+CIvalue: 574
+
+ID: 96548
+Degree: 12
+CIvalue: 572
+
+ID: 4199
+Degree: 23
+CIvalue: 572
+
+ID: 39147
+Degree: 14
+CIvalue: 572
+
+ID: 17966
+Degree: 20
+CIvalue: 570
+
+ID: 20951
+Degree: 11
+CIvalue: 570
+
+ID: 16697
+Degree: 11
+CIvalue: 570
+
+ID: 507
+Degree: 9
+CIvalue: 568
+
+ID: 12750
+Degree: 22
+CIvalue: 567
+
+ID: 101877
+Degree: 18
+CIvalue: 561
+
+ID: 623
+Degree: 12
+CIvalue: 561
+
+ID: 24676
+Degree: 34
+CIvalue: 561
+
+ID: 35772
+Degree: 18
+CIvalue: 561
+
+ID: 10911
+Degree: 9
+CIvalue: 560
+
+ID: 36065
+Degree: 21
+CIvalue: 560
+
+ID: 3292
+Degree: 11
+CIvalue: 560
+
+ID: 165693
+Degree: 19
+CIvalue: 558
+
+ID: 73973
+Degree: 19
+CIvalue: 558
+
+ID: 24599
+Degree: 13
+CIvalue: 552
+
+ID: 18450
+Degree: 20
+CIvalue: 551
+
+ID: 14945
+Degree: 11
+CIvalue: 550
+
+ID: 21062
+Degree: 11
+CIvalue: 550
+
+ID: 4479
+Degree: 12
+CIvalue: 550
+
+ID: 89008
+Degree: 14
+CIvalue: 546
+
+ID: 11546
+Degree: 22
+CIvalue: 546
+
+ID: 48930
+Degree: 15
+CIvalue: 546
+
+ID: 40326
+Degree: 22
+CIvalue: 546
+
+ID: 95846
+Degree: 9
+CIvalue: 544
+
+ID: 3144
+Degree: 17
+CIvalue: 544
+
+ID: 1284
+Degree: 21
+CIvalue: 540
+
+ID: 21634
+Degree: 12
+CIvalue: 539
+
+ID: 113373
+Degree: 12
+CIvalue: 539
+
+ID: 6692
+Degree: 9
+CIvalue: 536
+
+ID: 10942
+Degree: 42
+CIvalue: 533
+
+ID: 87681
+Degree: 29
+CIvalue: 532
+
+ID: 2173
+Degree: 15
+CIvalue: 532
+
+ID: 12272
+Degree: 15
+CIvalue: 532
+
+ID: 8706
+Degree: 11
+CIvalue: 530
+
+ID: 116388
+Degree: 12
+CIvalue: 528
+
+ID: 33051
+Degree: 12
+CIvalue: 528
+
+ID: 56379
+Degree: 17
+CIvalue: 528
+
+ID: 59977
+Degree: 13
+CIvalue: 528
+
+ID: 4567
+Degree: 13
+CIvalue: 528
+
+ID: 23399
+Degree: 16
+CIvalue: 525
+
+ID: 34800
+Degree: 16
+CIvalue: 525
+
+ID: 93208
+Degree: 30
+CIvalue: 522
+
+ID: 76592
+Degree: 11
+CIvalue: 520
+
+ID: 57508
+Degree: 11
+CIvalue: 520
+
+ID: 36093
+Degree: 11
+CIvalue: 520
+
+ID: 43518
+Degree: 27
+CIvalue: 520
+
+ID: 57426
+Degree: 11
+CIvalue: 520
+
+ID: 56304
+Degree: 11
+CIvalue: 520
+
+ID: 24911
+Degree: 15
+CIvalue: 518
+
+ID: 58736
+Degree: 12
+CIvalue: 517
+
+ID: 11438
+Degree: 13
+CIvalue: 516
+
+ID: 58303
+Degree: 7
+CIvalue: 516
+
+ID: 38711
+Degree: 20
+CIvalue: 513
+
+ID: 77066
+Degree: 10
+CIvalue: 513
+
+ID: 13256
+Degree: 17
+CIvalue: 512
+
+ID: 33758
+Degree: 18
+CIvalue: 510
+
+ID: 156729
+Degree: 14
+CIvalue: 507
+
+ID: 3289
+Degree: 14
+CIvalue: 507
+
+ID: 13518
+Degree: 19
+CIvalue: 504
+
+ID: 2645
+Degree: 19
+CIvalue: 504
+
+ID: 17647
+Degree: 9
+CIvalue: 504
+
+ID: 49123
+Degree: 11
+CIvalue: 500
+
+ID: 29978
+Degree: 26
+CIvalue: 500
+
+ID: 28067
+Degree: 11
+CIvalue: 500
+
+ID: 2992
+Degree: 16
+CIvalue: 495
+
+ID: 209524
+Degree: 10
+CIvalue: 495
+
+ID: 107937
+Degree: 16
+CIvalue: 495
+
+ID: 98762
+Degree: 10
+CIvalue: 495
+
+ID: 119821
+Degree: 10
+CIvalue: 495
+
+ID: 9879
+Degree: 20
+CIvalue: 494
+
+ID: 3138
+Degree: 18
+CIvalue: 493
+
+ID: 77211
+Degree: 8
+CIvalue: 490
+
+ID: 35786
+Degree: 9
+CIvalue: 488
+
+ID: 33295
+Degree: 10
+CIvalue: 486
+
+ID: 40
+Degree: 19
+CIvalue: 486
+
+ID: 141049
+Degree: 10
+CIvalue: 486
+
+ID: 11449
+Degree: 24
+CIvalue: 483
+
+ID: 13640
+Degree: 24
+CIvalue: 483
+
+ID: 13811
+Degree: 14
+CIvalue: 481
+
+ID: 18781
+Degree: 17
+CIvalue: 480
+
+ID: 99099
+Degree: 16
+CIvalue: 480
+
+ID: 33274
+Degree: 13
+CIvalue: 480
+
+ID: 13235
+Degree: 9
+CIvalue: 480
+
+ID: 267269
+Degree: 13
+CIvalue: 480
+
+ID: 82888
+Degree: 10
+CIvalue: 477
+
+ID: 1720
+Degree: 18
+CIvalue: 476
+
+ID: 12375
+Degree: 15
+CIvalue: 476
+
+ID: 13879
+Degree: 12
+CIvalue: 473
+
+ID: 28145
+Degree: 9
+CIvalue: 472
+
+ID: 8201
+Degree: 9
+CIvalue: 472
+
+ID: 37567
+Degree: 19
+CIvalue: 468
+
+ID: 17936
+Degree: 14
+CIvalue: 468
+
+ID: 45322
+Degree: 14
+CIvalue: 468
+
+ID: 15474
+Degree: 14
+CIvalue: 468
+
+ID: 9003
+Degree: 37
+CIvalue: 468
+
+ID: 12276
+Degree: 14
+CIvalue: 468
+
+ID: 67466
+Degree: 9
+CIvalue: 464
+
+ID: 78800
+Degree: 17
+CIvalue: 464
+
+ID: 121553
+Degree: 17
+CIvalue: 464
+
+ID: 101858
+Degree: 17
+CIvalue: 464
+
+ID: 7825
+Degree: 30
+CIvalue: 464
+
+ID: 26674
+Degree: 12
+CIvalue: 462
+
+ID: 12463
+Degree: 34
+CIvalue: 462
+
+ID: 65504
+Degree: 15
+CIvalue: 462
+
+ID: 47626
+Degree: 15
+CIvalue: 462
+
+ID: 23975
+Degree: 12
+CIvalue: 462
+
+ID: 2360
+Degree: 21
+CIvalue: 460
+
+ID: 34280
+Degree: 18
+CIvalue: 459
+
+ID: 16959
+Degree: 10
+CIvalue: 459
+
+ID: 165058
+Degree: 36
+CIvalue: 455
+
+ID: 85314
+Degree: 12
+CIvalue: 451
+
+ID: 121076
+Degree: 12
+CIvalue: 451
+
+ID: 2872
+Degree: 12
+CIvalue: 451
+
+ID: 7803
+Degree: 10
+CIvalue: 450
+
+ID: 260698
+Degree: 31
+CIvalue: 450
+
+ID: 596
+Degree: 19
+CIvalue: 450
+
+ID: 9251
+Degree: 16
+CIvalue: 450
+
+ID: 7
+Degree: 15
+CIvalue: 448
+
+ID: 33053
+Degree: 8
+CIvalue: 448
+
+ID: 50310
+Degree: 9
+CIvalue: 448
+
+ID: 91882
+Degree: 9
+CIvalue: 448
+
+ID: 97050
+Degree: 9
+CIvalue: 448
+
+ID: 6502
+Degree: 18
+CIvalue: 442
+
+ID: 16163
+Degree: 9
+CIvalue: 440
+
+ID: 34247
+Degree: 23
+CIvalue: 440
+
+ID: 43901
+Degree: 21
+CIvalue: 440
+
+ID: 106871
+Degree: 21
+CIvalue: 440
+
+ID: 24514
+Degree: 24
+CIvalue: 437
+
+ID: 180857
+Degree: 30
+CIvalue: 435
+
+ID: 95922
+Degree: 15
+CIvalue: 434
+
+ID: 60395
+Degree: 10
+CIvalue: 432
+
+ID: 187618
+Degree: 13
+CIvalue: 432
+
+ID: 13890
+Degree: 9
+CIvalue: 432
+
+ID: 18044
+Degree: 10
+CIvalue: 432
+
+ID: 11139
+Degree: 25
+CIvalue: 432
+
+ID: 28652
+Degree: 10
+CIvalue: 432
+
+ID: 17989
+Degree: 17
+CIvalue: 432
+
+ID: 36681
+Degree: 25
+CIvalue: 432
+
+ID: 53804
+Degree: 11
+CIvalue: 430
+
+ID: 54202
+Degree: 7
+CIvalue: 426
+
+ID: 1954
+Degree: 8
+CIvalue: 420
+
+ID: 53851
+Degree: 11
+CIvalue: 420
+
+ID: 40124
+Degree: 16
+CIvalue: 420
+
+ID: 3783
+Degree: 11
+CIvalue: 420
+
+ID: 13092
+Degree: 11
+CIvalue: 420
+
+ID: 66320
+Degree: 7
+CIvalue: 420
+
+ID: 16713
+Degree: 11
+CIvalue: 420
+
+ID: 138327
+Degree: 15
+CIvalue: 420
+
+ID: 1002
+Degree: 20
+CIvalue: 418
+
+ID: 7287
+Degree: 12
+CIvalue: 418
+
+ID: 31551
+Degree: 12
+CIvalue: 418
+
+ID: 4629
+Degree: 39
+CIvalue: 418
+
+ID: 300705
+Degree: 12
+CIvalue: 418
+
+ID: 52497
+Degree: 12
+CIvalue: 418
+
+ID: 16456
+Degree: 14
+CIvalue: 416
+
+ID: 80814
+Degree: 9
+CIvalue: 416
+
+ID: 23019
+Degree: 17
+CIvalue: 416
+
+ID: 56698
+Degree: 33
+CIvalue: 416
+
+ID: 21309
+Degree: 9
+CIvalue: 416
+
+ID: 67580
+Degree: 19
+CIvalue: 414
+
+ID: 11333
+Degree: 7
+CIvalue: 414
+
+ID: 101806
+Degree: 19
+CIvalue: 414
+
+ID: 92049
+Degree: 24
+CIvalue: 414
+
+ID: 62607
+Degree: 8
+CIvalue: 413
+
+ID: 91518
+Degree: 8
+CIvalue: 413
+
+ID: 19425
+Degree: 11
+CIvalue: 410
+
+ID: 89813
+Degree: 6
+CIvalue: 410
+
+ID: 72839
+Degree: 18
+CIvalue: 408
+
+ID: 53920
+Degree: 25
+CIvalue: 408
+
+ID: 101819
+Degree: 9
+CIvalue: 408
+
+ID: 53508
+Degree: 9
+CIvalue: 408
+
+ID: 110932
+Degree: 10
+CIvalue: 405
+
+ID: 65380
+Degree: 136
+CIvalue: 405
+
+ID: 36415
+Degree: 10
+CIvalue: 405
+
+ID: 6585
+Degree: 16
+CIvalue: 405
+
+ID: 42916
+Degree: 9
+CIvalue: 400
+
+ID: 4372
+Degree: 17
+CIvalue: 400
+
+ID: 42528
+Degree: 11
+CIvalue: 400
+
+ID: 184914
+Degree: 11
+CIvalue: 400
+
+ID: 54832
+Degree: 6
+CIvalue: 400
+
+ID: 2176
+Degree: 8
+CIvalue: 399
+
+ID: 38225
+Degree: 23
+CIvalue: 396
+
+ID: 166096
+Degree: 13
+CIvalue: 396
+
+ID: 2045
+Degree: 12
+CIvalue: 396
+
+ID: 16323
+Degree: 13
+CIvalue: 396
+
+ID: 72339
+Degree: 23
+CIvalue: 396
+
+ID: 10482
+Degree: 19
+CIvalue: 396
+
+ID: 443
+Degree: 8
+CIvalue: 392
+
+ID: 8927
+Degree: 29
+CIvalue: 392
+
+ID: 38277
+Degree: 15
+CIvalue: 392
+
+ID: 69648
+Degree: 9
+CIvalue: 392
+
+ID: 148272
+Degree: 27
+CIvalue: 390
+
+ID: 79653
+Degree: 31
+CIvalue: 390
+
+ID: 25280
+Degree: 8
+CIvalue: 385
+
+ID: 35493
+Degree: 12
+CIvalue: 385
+
+ID: 5082
+Degree: 12
+CIvalue: 385
+
+ID: 26149
+Degree: 13
+CIvalue: 384
+
+ID: 37271
+Degree: 17
+CIvalue: 384
+
+ID: 43607
+Degree: 13
+CIvalue: 384
+
+ID: 40796
+Degree: 17
+CIvalue: 384
+
+ID: 14575
+Degree: 13
+CIvalue: 384
+
+ID: 42687
+Degree: 11
+CIvalue: 380
+
+ID: 50290
+Degree: 8
+CIvalue: 378
+
+ID: 9348
+Degree: 8
+CIvalue: 378
+
+ID: 7428
+Degree: 19
+CIvalue: 378
+
+ID: 38205
+Degree: 14
+CIvalue: 377
+
+ID: 52122
+Degree: 14
+CIvalue: 377
+
+ID: 22240
+Degree: 14
+CIvalue: 377
+
+ID: 12223
+Degree: 26
+CIvalue: 375
+
+ID: 101872
+Degree: 12
+CIvalue: 374
+
+ID: 3642
+Degree: 35
+CIvalue: 374
+
+ID: 21198
+Degree: 12
+CIvalue: 374
+
+ID: 116683
+Degree: 18
+CIvalue: 374
+
+ID: 19887
+Degree: 13
+CIvalue: 372
+
+ID: 57967
+Degree: 13
+CIvalue: 372
+
+ID: 16099
+Degree: 13
+CIvalue: 372
+
+ID: 122468
+Degree: 11
+CIvalue: 370
+
+ID: 61118
+Degree: 10
+CIvalue: 369
+
+ID: 9133
+Degree: 10
+CIvalue: 369
+
+ID: 31446
+Degree: 10
+CIvalue: 369
+
+ID: 141619
+Degree: 9
+CIvalue: 368
+
+ID: 2278
+Degree: 9
+CIvalue: 368
+
+ID: 148853
+Degree: 9
+CIvalue: 368
+
+ID: 3015
+Degree: 17
+CIvalue: 368
+
+ID: 18284
+Degree: 14
+CIvalue: 364
+
+ID: 145905
+Degree: 8
+CIvalue: 364
+
+ID: 227701
+Degree: 14
+CIvalue: 364

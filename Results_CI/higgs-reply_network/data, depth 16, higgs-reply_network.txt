@@ -1,0 +1,38 @@
+higgs-reply_network.txt
+Depth: 16
+
+Number of nodes: 38918
+Number of edges: 29552
+
+Reading data: time elapsed = 0 h 0 min 0 sec 65 milisec
+Initializing CI values: time elapsed = 0 h 0 min 6 sec 949 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 5 milisec
+Searching influencers: time elapsed = 0 h 0 min 27 sec 162 milisec
+
+Original eigenvalue: 1,08093993219116
+Number of influencers: 6
+
+
+ID: 37832
+Degree: 8
+CIvalue: 37597
+
+ID: 41316
+Degree: 4
+CIvalue: 10815
+
+ID: 269152
+Degree: 18
+CIvalue: 4862
+
+ID: 31551
+Degree: 2
+CIvalue: 3394
+
+ID: 27748
+Degree: 4
+CIvalue: 3129
+
+ID: 42256
+Degree: 3
+CIvalue: 2638

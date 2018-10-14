@@ -1,0 +1,98 @@
+CA-GrQc.txt
+Depth: 11
+
+Number of nodes: 5242
+Number of edges: 14484
+
+Reading data: time elapsed = 0 h 0 min 0 sec 16 milisec
+Initializing CI values: time elapsed = 0 h 0 min 0 sec 971 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 1 milisec
+Searching influencers: time elapsed = 0 h 0 min 19 sec 998 milisec
+
+Original eigenvalue: 1,21097911086848
+Number of influencers: 21
+
+
+ID: 21450
+Degree: 5
+CIvalue: 12304
+
+ID: 11522
+Degree: 4
+CIvalue: 9807
+
+ID: 7885
+Degree: 2
+CIvalue: 5545
+
+ID: 3849
+Degree: 3
+CIvalue: 3740
+
+ID: 7010
+Degree: 3
+CIvalue: 3740
+
+ID: 7506
+Degree: 3
+CIvalue: 3740
+
+ID: 8177
+Degree: 7
+CIvalue: 3630
+
+ID: 21695
+Degree: 4
+CIvalue: 3393
+
+ID: 25387
+Degree: 2
+CIvalue: 3269
+
+ID: 8925
+Degree: 2
+CIvalue: 3069
+
+ID: 3516
+Degree: 5
+CIvalue: 2956
+
+ID: 16496
+Degree: 2
+CIvalue: 2809
+
+ID: 9758
+Degree: 3
+CIvalue: 2672
+
+ID: 25644
+Degree: 3
+CIvalue: 2514
+
+ID: 9312
+Degree: 2
+CIvalue: 1865
+
+ID: 23775
+Degree: 2
+CIvalue: 1784
+
+ID: 4141
+Degree: 4
+CIvalue: 1779
+
+ID: 16505
+Degree: 3
+CIvalue: 1366
+
+ID: 23464
+Degree: 2
+CIvalue: 1255
+
+ID: 25849
+Degree: 3
+CIvalue: 1188
+
+ID: 23490
+Degree: 2
+CIvalue: 955

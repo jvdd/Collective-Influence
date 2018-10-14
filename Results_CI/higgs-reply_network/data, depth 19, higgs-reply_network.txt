@@ -1,0 +1,14 @@
+higgs-reply_network.txt
+Depth: 19
+
+Number of nodes: 38918
+Number of edges: 29552
+
+Reading data: time elapsed = 0 h 0 min 0 sec 59 milisec
+Initializing CI values: time elapsed = 0 h 0 min 7 sec 119 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 5 milisec
+Searching influencers: time elapsed = 0 h 0 min 0 sec 0 milisec
+
+Original eigenvalue: 0,98958098100041
+Number of influencers: 0
+

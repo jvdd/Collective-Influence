@@ -1,0 +1,94 @@
+higgs-reply_network.txt
+Depth: 15
+
+Number of nodes: 38918
+Number of edges: 29552
+
+Reading data: time elapsed = 0 h 0 min 0 sec 68 milisec
+Initializing CI values: time elapsed = 0 h 0 min 6 sec 917 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 6 milisec
+Searching influencers: time elapsed = 0 h 1 min 57 sec 21 milisec
+
+Original eigenvalue: 1,10605139006221
+Number of influencers: 20
+
+
+ID: 41316
+Degree: 4
+CIvalue: 12144
+
+ID: 269152
+Degree: 18
+CIvalue: 8823
+
+ID: 27748
+Degree: 4
+CIvalue: 7074
+
+ID: 42256
+Degree: 3
+CIvalue: 6788
+
+ID: 35248
+Degree: 16
+CIvalue: 4725
+
+ID: 48652
+Degree: 10
+CIvalue: 3690
+
+ID: 31551
+Degree: 2
+CIvalue: 3605
+
+ID: 44969
+Degree: 3
+CIvalue: 2638
+
+ID: 69868
+Degree: 3
+CIvalue: 2388
+
+ID: 37561
+Degree: 8
+CIvalue: 2254
+
+ID: 90718
+Degree: 4
+CIvalue: 2037
+
+ID: 146105
+Degree: 3
+CIvalue: 1944
+
+ID: 31443
+Degree: 5
+CIvalue: 1624
+
+ID: 54852
+Degree: 3
+CIvalue: 1546
+
+ID: 102418
+Degree: 5
+CIvalue: 1288
+
+ID: 2237
+Degree: 19
+CIvalue: 1260
+
+ID: 48702
+Degree: 3
+CIvalue: 1176
+
+ID: 94713
+Degree: 6
+CIvalue: 1015
+
+ID: 7214
+Degree: 8
+CIvalue: 973
+
+ID: 6069
+Degree: 2
+CIvalue: 922

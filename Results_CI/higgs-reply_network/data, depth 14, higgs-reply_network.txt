@@ -1,0 +1,206 @@
+higgs-reply_network.txt
+Depth: 14
+
+Number of nodes: 38918
+Number of edges: 29552
+
+Reading data: time elapsed = 0 h 0 min 0 sec 59 milisec
+Initializing CI values: time elapsed = 0 h 0 min 7 sec 947 milisec
+Initializing MaxHeap: time elapsed = 0 h 0 min 0 sec 6 milisec
+Searching influencers: time elapsed = 0 h 5 min 45 sec 239 milisec
+
+Original eigenvalue: 1,15648952673261
+Number of influencers: 48
+
+
+ID: 269152
+Degree: 18
+CIvalue: 16439
+
+ID: 44969
+Degree: 4
+CIvalue: 10182
+
+ID: 35248
+Degree: 16
+CIvalue: 9525
+
+ID: 48652
+Degree: 10
+CIvalue: 6309
+
+ID: 69868
+Degree: 3
+CIvalue: 4984
+
+ID: 37561
+Degree: 8
+CIvalue: 4949
+
+ID: 90718
+Degree: 4
+CIvalue: 3999
+
+ID: 146105
+Degree: 3
+CIvalue: 3514
+
+ID: 2237
+Degree: 19
+CIvalue: 3168
+
+ID: 245
+Degree: 31
+CIvalue: 3030
+
+ID: 102418
+Degree: 5
+CIvalue: 2824
+
+ID: 31443
+Degree: 5
+CIvalue: 2656
+
+ID: 54852
+Degree: 3
+CIvalue: 2580
+
+ID: 7214
+Degree: 8
+CIvalue: 2345
+
+ID: 48702
+Degree: 3
+CIvalue: 2202
+
+ID: 31290
+Degree: 16
+CIvalue: 2190
+
+ID: 68399
+Degree: 4
+CIvalue: 2031
+
+ID: 22734
+Degree: 8
+CIvalue: 1988
+
+ID: 94713
+Degree: 6
+CIvalue: 1975
+
+ID: 14598
+Degree: 7
+CIvalue: 1686
+
+ID: 17518
+Degree: 4
+CIvalue: 1668
+
+ID: 39511
+Degree: 7
+CIvalue: 1608
+
+ID: 38602
+Degree: 24
+CIvalue: 1541
+
+ID: 6069
+Degree: 2
+CIvalue: 1513
+
+ID: 2221
+Degree: 3
+CIvalue: 1430
+
+ID: 65097
+Degree: 10
+CIvalue: 1368
+
+ID: 2287
+Degree: 8
+CIvalue: 1351
+
+ID: 30714
+Degree: 3
+CIvalue: 1310
+
+ID: 31957
+Degree: 6
+CIvalue: 1270
+
+ID: 6679
+Degree: 8
+CIvalue: 1225
+
+ID: 16452
+Degree: 9
+CIvalue: 1120
+
+ID: 54280
+Degree: 3
+CIvalue: 1084
+
+ID: 69152
+Degree: 2
+CIvalue: 1076
+
+ID: 90168
+Degree: 3
+CIvalue: 1070
+
+ID: 104109
+Degree: 5
+CIvalue: 1008
+
+ID: 34852
+Degree: 2
+CIvalue: 977
+
+ID: 8385
+Degree: 4
+CIvalue: 927
+
+ID: 4506
+Degree: 2
+CIvalue: 913
+
+ID: 35114
+Degree: 2
+CIvalue: 912
+
+ID: 42208
+Degree: 4
+CIvalue: 891
+
+ID: 88572
+Degree: 4
+CIvalue: 888
+
+ID: 43594
+Degree: 3
+CIvalue: 852
+
+ID: 21100
+Degree: 3
+CIvalue: 844
+
+ID: 70134
+Degree: 3
+CIvalue: 818
+
+ID: 77616
+Degree: 6
+CIvalue: 805
+
+ID: 93208
+Degree: 7
+CIvalue: 798
+
+ID: 9226
+Degree: 8
+CIvalue: 742
+
+ID: 211273
+Degree: 2
+CIvalue: 725

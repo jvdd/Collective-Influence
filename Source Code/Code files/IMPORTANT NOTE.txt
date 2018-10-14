@@ -1,0 +1,1 @@
+The class UnitTest is in another namespace (Test) than the other classes who are in the CollectiveInfluenceAlgorithm namespace.
