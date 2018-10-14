@@ -22,7 +22,7 @@ An example is: string filepath = @"C:\Users\Name\Directory\subdirectory\filename
 !!! Don't forget to write @ before your string (as you can see in the example above)
 IMPORTANT NOTE: The filename should be one of the 13 given networks!
 
-**Step 2**:
+**Step 3**:
 Change the integer depth to the distance you prefer to search nodes for.
 IMPORTANT NOTE: The depth should be >= 0 !
 
